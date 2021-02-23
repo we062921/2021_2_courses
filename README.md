@@ -9,8 +9,16 @@ Cloud security
 
 # linuX security
 ```
+Linux Shell自動化運維（慕課版）
+簡體中文/千鋒教育高教產品研發部/人民郵電出版日期：2020-07-01
+```
+```
 Linux 系統安全：縱深防禦、安全掃描與入侵檢測
 胥峰　著  機械工業  2019-07-01
+```
+```
+Linux網絡安全精要
+簡體中文/William “Bo” Rothwell/機械工業出版日期：2020-09-01
 ```
 ```
 Mastering Linux Security and Hardening - Second Edition
@@ -33,6 +41,14 @@ Linux Hardening in Hostile Networks: Server Security from TLS to Tor
 LINUX FIREWALLS ：善用 NFTABLES 等超強工具捍衛 LINUX 防火牆的安全性, 4/e (中文版) 
 Linux Firewalls: Enhancing Security with nftables and Beyond, 4/e
 繁體中文/Steve Suehring/博碩文化出版日期：2019-09-12
+```
+```
+Linux Shell自動化運維（慕課版）
+簡體中文/千鋒教育高教產品研發部/人民郵電出版日期：2020-07-01
+```
+```
+Linux 系統管理與網絡管理(第2版)
+簡體中文/餘柏山, 等/清華大學出版社出版日期：2014-02-01
 ```
 ###
 ```
@@ -95,4 +111,41 @@ Linux 環境 C 程序設計(第2版)
 機械工業
 出版日期:
 2017-08-01
+```
+```
+高性能 Linux 服務器運維實戰：shell 編程、監控告警、性能優化與實戰案例
+簡體中文/高俊峰編著/機械工業出版日期：2020-06-01
+```
+```
+Linux C 從入門到精通, 2/e
+簡體中文/明日科技/清華大學出版社出版日期：2018-10-01
+```
+```
+Red Hat Enterprise Linux 8.0 系統運維管理
+簡體中文/曹江華,郝自強/電子工業出版日期：2020-09-01
+```
+
+```
+Red Hat Enterprise Linux 8.0 系統運維管理
+簡體中文/曹江華,郝自強/電子工業出版日期：2020-09-01
+```
+
+```
+Red Hat Enterprise Linux 8 系統管理實戰
+簡體中文/夏棟梁 寧菲菲/清華大學出版日期：2020-05-01
+```
+
+```
+Linux OpenLDAP 實戰指南
+繁體中文/郭大勇 著，劉勇炫 譯/碁峰出版日期：2016-09-19
+```
+
+```
+Linux實戰
+簡體中文/[美]　戴維·克林頓（David Clinton）　著/機械工業出版日期：2019-07-01
+```
+
+```
+MIS 的安全防禦：Linux 系統與網路安全
+繁體中文/酆士昌 著/博碩出版日期：2017-02-09
 ```
