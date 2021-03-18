@@ -5,6 +5,8 @@ Linux Shell 腳本攻略, 3/e Linux Shell脚本攻略 第3版
 人民郵電  2018-03-01
 ISBN:7115477388
 ISBN-13:9787115477385
+
+https://www.packtpub.com/product/linux-shell-scripting-cookbook-third-edition/9781785881985
 ```
 ```
 第1章小試牛刀1 
