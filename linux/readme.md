@@ -88,11 +88,11 @@ Appendix A Linux 常見問題解疑
 
 # Linux伺服器建置與管理
 
-- [高性能 Linux 服務器運維實戰：shell 編程、監控告警、性能優化與實戰案例 高俊峰編著/機械工業出版日期：2020-06-01](https://www.tenlong.com.tw/products/9787111655497)
+- [Linux 運維實作大全：高效管理所有主流服務2020-06-01](https://www.tenlong.com.tw/products/9789865501662)
 
 
 # Linux shell Programming
-
+- [Bash Cookbook (簡體中文版)](https://www.tenlong.com.tw/products/9787115527011) [[GITHUB]](https://github.com/PacktPublishing/Bash-Cookbook)
 - [Bash 資安管理手冊 (Cybersecurity Ops with bash)](https://www.tenlong.com.tw/products/9789865023232)  [[GITHUB]](https://github.com/cybersecurityops/cyber-ops-with-bash)
 - [Linux Shell 程式設計與管理實務, 3/e 臥龍小三  博碩文化 2017-07-09](https://www.tenlong.com.tw/products/9789864342266)
 - [Linux Shell 腳本攻略, 3/e Linux Shell脚本攻略 第3版 [美]克裡夫·弗林特 2018-03-01](https://www.tenlong.com.tw/products/9787115477385)
