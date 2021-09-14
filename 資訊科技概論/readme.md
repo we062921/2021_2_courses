@@ -1,4 +1,7 @@
-#
+# 課程相關學習資源
+
+- [Kali系統下載區](https://drive.google.com/file/d/1awLNHsJKgga2W0XFycnBmPEgzx4221Wi/view?usp=sharing)
+- [Ubuntu 18.04LTS系統下載區](https://drive.google.com/file/d/1QPy_Ztk5Gl1ZkHRRCCytEJRem0KjItOw/view?usp=sharing)
 
 # [教科書](https://www.tenlong.com.tw/products/9789579282666)
 ```
@@ -19,6 +22,10 @@ Module 9 網頁程式設計
 Module10 網路功能
 Module11 數位通訊
 ```
+# 本學期相關學習補充教材
+- [程式開發 Python MyFirstSecurity2020/HappyPythonDay](https://github.com/MyFirstSecurity2020/HappyPythonDay)
+- [MyFirstSecurity2020/HappyLinuxDay](https://github.com/MyFirstSecurity2020/HappyLinuxDay)
+
 # 本學期IPAS(初階)資安證照班 [簡章與說明](https://www.ipas.org.tw/ISE/AbilityBriefingList.aspx) [填寫(一定要考上)意願書]()
 # 崑山傳統:大一入學三個月  讓你考上專業資安證照
 ```
