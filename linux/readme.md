@@ -1,3 +1,14 @@
+
+# 課程相關學習資源
+
+- [Kali系統下載區](https://drive.google.com/file/d/1awLNHsJKgga2W0XFycnBmPEgzx4221Wi/view?usp=sharing)
+- [Ubuntu 18.04LTS系統下載區](https://drive.google.com/file/d/1QPy_Ztk5Gl1ZkHRRCCytEJRem0KjItOw/view?usp=sharing)
+
+# 本學期相關學習補充教材
+- [程式開發 Python MyFirstSecurity2020/HappyPythonDay](https://github.com/MyFirstSecurity2020/HappyPythonDay)
+- [MyFirstSecurity2020/HappyLinuxDay](https://github.com/MyFirstSecurity2020/HappyLinuxDay)
+
+
 # Linux
 ```
 
