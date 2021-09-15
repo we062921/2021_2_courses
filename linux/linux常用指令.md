@@ -1,11 +1,11 @@
 #
 ```
-
-
-
 ```
 
-# 資料夾與檔案處理
+- pipiline與 redirection
+
+
+# 資料夾|目錄 與 檔案 處理
 ```
 /  ==> 根目錄(linux最上層目錄)
 .  ==> 表示該層目錄
@@ -38,6 +38,10 @@
 - locate
 - which
 
+## 檔案壓縮解壓縮與打包
+- gzip
+- tar
+
 # 使用者(user)與群組(group)管理
 ```
 建立+移除+更新 使用者  .....
@@ -67,11 +71,23 @@
 - chown ==> 變更文件或目錄的擁有者或所屬群組
 - chgrp ==> 變更文件或目錄的所屬群組。
 
+# 網路連線指令
 
-# 軟體管理(套件管理)
+- telnet | ssh
+- ftp | sftp
+- wget
+- netstat
+
+# 軟體管理(套件管理) package management tools
 ```
 安裝+移除+更新 軟體  .....
+不同發行版本會提供不同套件管理工具
+centos  ==> yum
+debian  ==> dpkg | apt(Advanced Package Tool)
+red hat ==> rpm
 ```
+
+- [Ubuntu Server Guide指令](https://ubuntu.com/server/docs)
 
 # 行程(process)管理
 
@@ -84,7 +100,7 @@
 - chsh(change shell) ==> 更換登入系統時使用的shell。
 - exit ==> 退出目前的shell。
 
-
+# 行程調校
 
 # 系統管理
 
