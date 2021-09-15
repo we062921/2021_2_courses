@@ -20,6 +20,10 @@
 
 ![下載紅色的兩個檔案](./20210915BOX.png)
 
+
+# 2.下載linux 的ova
+
+
 # 2.申請github
 
 ![申請github帳號](./20210915GITHUB.png)
