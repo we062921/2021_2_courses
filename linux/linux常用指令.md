@@ -51,6 +51,27 @@ https://dylan237.github.io/linux-basic.html
 - gzip
 - tar
 
+## file descriptors and redirection
+- File descriptors are integers associated with the input and output streams. 
+
+| name | Full name  | file descriptors |
+| ----| -------|-------|
+|stdin  |  standard input  |  0 |
+|stdout |  standard output   |  1 |
+|stderr| standard error   |  2 |
+
+```
+echo "This is a sample text 1" > temp.txt
+
+echo "This is sample text 2" >> temp.txt
+
+cat temp.txt
+
+redirect stderr to one file and stdout to another file.
+==>  cmd 2>stderr.txt 1>stdout.txt
+
+https://www.packtpub.com/product/linux-shell-scripting-cookbook-third-edition/9781785881985
+```
 # 使用者(user)與群組(group)管理
 ```
 建立+移除+更新 使用者  .....
