@@ -4,6 +4,10 @@
 
 - pipiline與 redirection
 
+https://dylan237.github.io/linux-basic.html
+
+- [Linux 命令大全](https://www.runoob.com/linux/linux-command-manual.html)
+- [Linux 常用命令全拼](https://www.runoob.com/w3cnote/linux-command-full-fight.html)
 
 # 資料夾|目錄 與 檔案 處理
 ```
@@ -14,7 +18,8 @@
 ~  ==> 表示『目前使用者身份』所在的家目錄
 ```
 ## 
-- [mkdir ==>建立資料夾]()
+- [mkdir(Make Directory) ==>建立資料夾]()
+- [rmdir(Remove Directory)==>刪除資料夾]()
 - [rm(remove) ==>刪除檔案或資料夾]()
 - [cp ==> 複製檔案]
 
@@ -26,6 +31,9 @@
 - [head ==> 顯示檔案的開頭的內容]()
 - [tail ==> 輸入檔案中的尾部內容]()
 - [file ==> 檔案類型]
+- echo ==> 印出一行文本
+
+- sort ==>將檔案內容依排列，再輸到終端[預設是使用 ASCII 碼的次序排列]
 
 
 ## 文字編輯工具|寫程式也可以用
@@ -37,6 +45,7 @@
 - find ==>找尋吻合條件的檔案
 - locate
 - which
+- grep ==> 用關鍵字找尋檔案
 
 ## 檔案壓縮解壓縮與打包
 - gzip
@@ -45,6 +54,8 @@
 # 使用者(user)與群組(group)管理
 ```
 建立+移除+更新 使用者  .....
+
+https://www.runoob.com/linux/linux-user-manage.html
 ```
 - adduser == > 新增使用者(user)帳號
 
@@ -60,8 +71,8 @@
 - id ==> 顯示使用者(user)的ID，以及所屬群組(group)的ID。
 - whoami==> 顯示使用者(user)名稱
 
-
-- su(super user) ==> 變更使用者(user)身份
+- passwd ==> 更改密碼
+- su(super user|Swith user) ==> 變更使用者(user)身份
 - sudo ==> 以其他身份來執行指令。
 
 
@@ -88,6 +99,19 @@ red hat ==> rpm
 ```
 
 - [Ubuntu Server Guide指令](https://ubuntu.com/server/docs)
+
+- insmod(Install module)
+- rmmod(Remove module)
+- lsmod(List module)
+
+# 硬體管理
+
+## 磁碟管理
+
+- df(disk full)  ==>  列出檔案系統的整體磁片使用量
+- du(disk usage) ==> 檢查磁碟空間使用量
+- fdisk ==> 用於磁碟分割
+
 
 # 行程(process)管理
 
