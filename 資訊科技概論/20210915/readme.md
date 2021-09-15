@@ -24,6 +24,8 @@
 # 2.下載linux 的ova
 
 
-# 2.申請github
+# 4.申請github
+
+- [微軟大砸75億美元買下GitHub 2018.6](https://www.ithome.com.tw/news/123625)
 
 ![申請github帳號](./20210915GITHUB.png)
