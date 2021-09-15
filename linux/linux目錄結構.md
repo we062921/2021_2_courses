@@ -29,7 +29,7 @@
   - more cpuinfo：顯示有關cpu的訊息
   - more devices：區塊設備、字元設備
   - more filesystems：目前核心技援的檔案系統
-  - more dma：直接記憶體存取
+  - more dma：直接記憶體存取(direct memory access)
   - more interrupts：中斷向量值、中斷次數
   - more ioports：系統中每個設備的輸出／輸入埠的位址範圍
   - more meminfo：記憶體分配狀態
