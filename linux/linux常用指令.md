@@ -167,6 +167,22 @@ red hat ==> rpm
 - last ==> 列出目前與過去登入系統的用戶相關信息
 - lastb ==> 列出登入系統失敗的用戶相關信息
 
+# environment variables環境變數
+
+```
+PATH=/usr/bin;/bin 
+LD_LIBRARY_PATH=/usr/lib;/lib
+```
+```
+export PATH=/opt/myapp/bin:$PATH 
+export LD_LIBRARY_PATH=/opt/myapp/lib;$LD_LIBRARY_PATH
+```
+```
+PATH=/opt/myapp/bin:/usr/bin:/bin 
+LD_LIBRARY_PATH=/opt/myapp/lib:/usr/lib;/lib
+```
+
+
 procinfo(process information)
 
 
