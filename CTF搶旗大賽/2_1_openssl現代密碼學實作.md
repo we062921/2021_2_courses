@@ -44,5 +44,42 @@ rc2-cfb           rc2-ecb           rc2-ofb           rc4
 rc4-40            seed              seed-cbc          seed-cfb          
 seed-ecb          seed-ofb          sm4-cbc           sm4-cfb           
 sm4-ctr           sm4-ecb           sm4-ofb     
+```
+
+```
+openssl enc -help
+Usage: enc [options]
+Valid options are:
+ -help               Display this summary
+ -ciphers            List ciphers
+ -in infile          Input file
+ -out outfile        Output file
+ -pass val           Passphrase source
+ -e                  Encrypt
+ -d                  Decrypt
+ -p                  Print the iv/key
+ -P                  Print the iv/key and exit
+ -v                  Verbose output
+ -nopad              Disable standard block padding
+ -salt               Use salt in the KDF (default)
+ -nosalt             Do not use salt in the KDF
+ -debug              Print debug info
+ -a                  Base64 encode/decode, depending on encryption flag
+ -base64             Same as option -a
+ -A                  Used with -[base64|a] to specify base64 buffer as a single line
+ -bufsize val        Buffer size
+ -k val              Passphrase
+ -kfile infile       Read passphrase from file
+ -K val              Raw key, in hex
+ -S val              Salt, in hex
+ -iv val             IV in hex
+ -md val             Use specified digest to create a key from the passphrase
+ -iter +int          Specify the iteration count and force use of PBKDF2
+ -pbkdf2             Use password-based key derivation function 2
+ -none               Don't encrypt
+ -*                  Any supported cipher
+ -rand val           Load the file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+ -engine val         Use engine, possibly a hardware device
 
 ```
