@@ -1,7 +1,13 @@
 # 本學期上課主題:破密分析
 ```
-
+現代密碼學
+openssl 現代密碼實測
+python現代密碼實測
 ```
+```
+破密分析
+```
+## Forensic 數位鑑識
 # 課程相關學習資源
 
 - [Kali系統下載區(本學期使用的主軸)](https://drive.google.com/file/d/1awLNHsJKgga2W0XFycnBmPEgzx4221Wi/view?usp=sharing)
