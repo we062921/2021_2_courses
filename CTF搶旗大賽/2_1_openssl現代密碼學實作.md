@@ -45,18 +45,17 @@ rc4-40            seed              seed-cbc          seed-cfb
 seed-ecb          seed-ofb          sm4-cbc           sm4-cfb           
 sm4-ctr           sm4-ecb           sm4-ofb     
 ```
-
+## openssl enc -help
 ```
-openssl enc -help
 Usage: enc [options]
 Valid options are:
  -help               Display this summary
- -ciphers            List ciphers
+ -ciphers            List ciphers ==>列出所有密碼學演算法
  -in infile          Input file
  -out outfile        Output file
  -pass val           Passphrase source
- -e                  Encrypt
- -d                  Decrypt
+ -e                  Encrypt ==>加密
+ -d                  Decrypt ==>解密
  -p                  Print the iv/key
  -P                  Print the iv/key and exit
  -v                  Verbose output
