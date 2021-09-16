@@ -26,3 +26,6 @@ cryptography
 ```
 ## [PyCryptodome](https://github.com/Legrandin/pycryptodome)
 
+!pip install cryptography
+
+
