@@ -3,6 +3,8 @@
 
 ### [Linux 伺服器安全防護 (Building Secure Servers with Linux) Michael D. Bauer(2002)已絕版的好書](https://www.oreilly.com/library/view/building-secure-servers/0596002173/) [[中文版]](https://www.tenlong.com.tw/products/9789867794185)
 
+### [Linux 網路安全技術與實現, 2/e 陳勇勳 悅知文化已絕版](https://www.tenlong.com.tw/products/9789866072147)
+
 ### [MIS 的安全防禦：Linux 系統與網路安全|酆士昌 著|博碩文化(2017)](https://www.tenlong.com.tw/products/9789864341863)
 
 ### [LINUX FIREWALLS 4/e (中文版) (Linux Firewalls: Enhancing Security with nftables and Beyond, 4/e)Steve Suehring 王文燁|博碩文化](https://www.tenlong.com.tw/products/9789864344239)
