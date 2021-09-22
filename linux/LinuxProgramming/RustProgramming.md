@@ -3,6 +3,26 @@
 - [Rust Programming Cookbook(2019)](https://www.packtpub.com/product/rust-programming-cookbook/9781789530667) [[GITHUB]](https://github.com/packtpublishing/rust-programming-cookbook)
   - Ch1.Starting Off with Rust 
 - [Rust Standard Library Cookbook(2018)](https://www.packtpub.com/product/rust-standard-library-cookbook/9781788623926) [[GITHUB]](https://github.com/packtpublishing/rust-standard-library-cookbook)
+- [Rust Cookbook(2017)](https://www.packtpub.com/product/rust-cookbook/9781785880254)  [[GITHUB]](https://github.com/PacktPublishing/Rust-Cookbook)
+```
+// Task : To explain array in rust
+// Author : Vigneshwer
+// Version : 1.0
+// Date : 3 Dec 2016
+
+fn main() {
+	
+	// Defining an array 
+	let rand_array = [1,2,3];
+
+	println!("random array {:?}",rand_array );
+	// indexing starts with 0
+	println!("random array 1st element {}",rand_array[0] );
+	println!("random array length {}",rand_array.len() );
+	// last two elements
+	println!("random array {:?}",&rand_array[1..3] );
+}
+```
 
 # Linux開發系統建置 
 
