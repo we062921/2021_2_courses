@@ -1,4 +1,12 @@
-# 開發系統建置 windows
+# 參考書籍與學習資源
+- [官方學習資源](https://www.rust-lang.org/learn)
+- [Rust Programming Cookbook(2019)](https://www.packtpub.com/product/rust-programming-cookbook/9781789530667) [[GITHUB]](https://github.com/packtpublishing/rust-programming-cookbook)
+  - Ch1.Starting Off with Rust 
+- [Rust Standard Library Cookbook(2018)](https://www.packtpub.com/product/rust-standard-library-cookbook/9781788623926) [[GITHUB]](https://github.com/packtpublishing/rust-standard-library-cookbook)
+
+# Linux開發系統建置 
+
+# windows開發系統建置 
 
 - [下載安裝檔](https://rustup.rs/)
 - 安裝
