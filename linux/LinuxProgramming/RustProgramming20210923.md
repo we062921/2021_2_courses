@@ -13,10 +13,8 @@
 - 安裝
   - curl https://sh.rustup.rs -sSf | sh
   - curl -sf https://static.rust-lang.org/rustup.sh | sudo sh
-- 移除 Uninstalling Rust
-  - rustup self uninstall
-- 驗證安裝是否成功
-  - rustc --version
+- 移除 Uninstalling Rust ==>  rustup self uninstall
+- 驗證安裝是否成功 ==> rustc --version
 
 ### 第一支程式 linux rust 程式
 - mkdir /home/ksu/rust_cookbook
@@ -127,8 +125,7 @@ Cargo's bin directory (%USERPROFILE%\.cargo\bin).
 
 Press the Enter key to continue.
 ```
-- 驗證安裝是否成功
-  - rustc --version
+- 驗證安裝是否成功 ==> rustc --version
 ```
 C:\Users\KSU>rustc --version
 rustc 1.55.0 (c8dfcfe04 2021-09-06)
