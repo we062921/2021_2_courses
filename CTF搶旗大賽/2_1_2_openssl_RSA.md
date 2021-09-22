@@ -1,5 +1,9 @@
 # openssl RSA
-- [Generate OpenSSL RSA Key Pair from the Command Line]()
+
+- [rsautl: openssl-rsautl, rsautl - RSA utility](https://www.openssl.org/docs/man1.0.2/man1/rsautl.html)
+
+
+## [Generate OpenSSL RSA Key Pair from the Command Line]()
 
 - Generate a 2048 bit RSA Key ==> openssl genrsa -des3 -out private.pem 2048
 - Export the RSA Public Key to a File ==> openssl rsa -in private.pem -outform PEM -pubout -out public.pem
