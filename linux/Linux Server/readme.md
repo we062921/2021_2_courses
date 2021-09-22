@@ -6,12 +6,16 @@
 - SQL database server : sqlite mysql/mariaDB postgresql 【MS SQL for linux】 oracle server
   - [Percona –The Database Performance Experts](https://www.percona.com/) 
 - NOSQL database : 很多 例舉數個  redis mongoDB net4j
-- DNS server Bind
+- DNS server ==> Bind
   - [How to: Deploying DNSSEC with BIND and Ubuntu Server(2019)](https://blog.apnic.net/2019/05/23/how-to-deploying-dnssec-with-bind-and-ubuntu-server/)
   - [How to test and validate DNSSEC using dig command line(2019)](https://blog.apnic.net/2019/05/23/how-to-deploying-dnssec-with-bind-and-ubuntu-server/) 
 - smb server :samba
 - LDAP server : OpenLDAP
-
+- VPN server ==> openvpn   Algo
+  - [6 open source tools for making your own VPN(2018)](https://opensource.com/article/18/8/open-source-tools-vpn) 
+  - [How To Set up OpenVPN Server In 5 Minutes on Ubuntu Linux(2021)](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
+  - [How to set up a Linux VPN server (Beginner's Guide)](https://averagelinuxuser.com/linux-vpn-server/)
+  - [架設OpenVPN伺服器 提供終端裝置VPN連線(2014)](https://www.netadmin.com.tw/netadmin/zh-tw/technology/E36B40CB7BF7413A8B84473B8BB9F6DD)
 
 ## 進階
 - 叢集伺服器 Keepalived、LVS、HAProxy
