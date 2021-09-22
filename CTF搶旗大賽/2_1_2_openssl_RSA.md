@@ -13,7 +13,7 @@
 - [How to encrypt messages/text with RSA & OpenSSL?](https://unix.stackexchange.com/questions/12260/how-to-encrypt-messages-text-with-rsa-openssl)
 
 ### [Creating RSA Keys using OpenSSL(2020)](https://www.scottbrady91.com/OpenSSL/Creating-RSA-Keys-using-OpenSSL)
-```c
+```linux
 # generate a private key with the correct length
 openssl genrsa -out private-key.pem 3072
 
