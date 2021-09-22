@@ -56,7 +56,7 @@ echo $VAR_C
 |-eq |equal to等於 |  |
 |-nq |not equal to 不等於 ||
 
-## if 條件
+## if 條件 ==> 是非題   是 就執行  非 就不執行
 ```bash
 #!/bin/bash
 AGE=17
@@ -64,7 +64,8 @@ if [ ${AGE} -lt 18 ]; then
     echo "You must be 18 or older to see this movie"
 fi
 ```
-## if-else 條件
+
+## if-else 條件  ===> 二選一  一定會執行某一個
 ```bash
 #!/bin/bash
 AGE=9000
@@ -78,7 +79,7 @@ fi
 echo "This line will never get executed"
 ```
 
-## if-elif-else條件
+## if-elif-else條件  ===> 多選一  一定會執行某一個
 ```
 #!/bin/bash
 AGE=21
@@ -93,7 +94,7 @@ fi
 
 echo "This line might not get executed"
 ```
-## if-elif(很多個)-else條件
+## if-elif(很多個)-else條件  ===> 多選一  一定會執行某一個
 ```
 #!/bin/bash
 VAR=10
@@ -128,7 +129,7 @@ else
     echo "Who is this?"
 fi
 ```
-## 字符串
+## 字串(string)的使用
 ```
 #!/bin/bash
 MY_NAME="John"
@@ -344,15 +345,4 @@ echo "Welcome ${FIRSTNAME} ${LASTNAME}!"
 
 exit 0
 ```
-```
-1．1 Bash和CLI基礎知識入門
-1．2基本變量的創建和使用6
-1．3 Bash隱藏變量和保留字9
-11
-1．4．1評估數值12
-1．4．2評估13
-1．4．314
 
-1．8檢索返回碼和輸出20
-
-```
