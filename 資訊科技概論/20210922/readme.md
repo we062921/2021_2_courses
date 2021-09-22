@@ -1,8 +1,9 @@
 
-# base64 -h
+# base64 -h ==> base64 --help
 ```
 base64: invalid option -- 'h'
 Try 'base64 --help' for more information.
+
 lab@f9f78d214892:~$ base64 --help
 Usage: base64 [OPTION]... [FILE]
 Base64 encode or decode FILE, or standard input, to standard output.
