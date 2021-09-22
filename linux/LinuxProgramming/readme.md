@@ -2,9 +2,17 @@
 
 
 ## C/C++
+### 程式設計
 - [Learn C Programming(2020)](https://www.packtpub.com/product/learn-c-programming/9781789349917)  [[GITHUB]](https://github.com/packtpublishing/learn-c-programming)
 - [Modern C++ Programming Cookbook - Second Edition(2020)](https://www.packtpub.com/product/modern-c-programming-cookbook-second-edition/9781800208988)
 - [CMake Cookbook(2018)](https://www.packtpub.com/product/cmake-cookbook/9781788470711)
+
+### 系統程式設計 system programming
+- [Hands-On System Programming with Linux(C)(2018)](https://www.packtpub.com/product/hands-on-system-programming-with-linux/9781788998475)  [[GITHUB]](https://github.com/packtpublishing/hands-on-system-programming-with-linux)
+- [C++ System Programming Cookbook(2020)](https://www.packtpub.com/product/c-system-programming-cookbook/9781838646554)  [[GITHUB]](https://github.com/PacktPublishing/C-System-Programming-Cookbook)
+
+### Linux Kernel Programming
+- [Linux Kernel Programming(2021)](https://www.packtpub.com/product/linux-kernel-programming/9781789953435)  [[GITHUB]](https://github.com/PacktPublishing/Linux-Kernel-Programming)
 
 ## Python
 ## Ruby
