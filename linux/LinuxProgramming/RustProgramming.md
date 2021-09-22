@@ -44,6 +44,15 @@ Current installation options:
 2) Customize installation
 3) Cancel installation
 ```
+- 驗證安裝是否成功
+  - rustc --version
+
+## 第一支程式
+- 建立專案 ==>cargo new hello-world [creates a new Rust project in a hello-world folder]
+- cd hello-world
+- 撰寫 src/main.rs程式
+- 回到根目錄 ==> 看看 Cargo.toml
+- 在根目錄執行 cargo run
 
 ## 開發工具 
 - [visual studio code](https://code.visualstudio.com/)
