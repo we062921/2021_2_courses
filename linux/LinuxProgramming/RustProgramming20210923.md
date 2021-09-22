@@ -129,7 +129,10 @@ Press the Enter key to continue.
 ```
 - 驗證安裝是否成功
   - rustc --version
-
+```
+C:\Users\KSU>rustc --version
+rustc 1.55.0 (c8dfcfe04 2021-09-06)
+```
 ## 第一支程式
 - 建立專案 ==>cargo new hello-world [creates a new Rust project in a hello-world folder]
 - cd hello-world
