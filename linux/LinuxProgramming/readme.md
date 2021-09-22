@@ -2,6 +2,10 @@
 
 
 ## C/C++
+- [Learn C Programming(2020)](https://www.packtpub.com/product/learn-c-programming/9781789349917)  [[GITHUB]](https://github.com/packtpublishing/learn-c-programming)
+- [Modern C++ Programming Cookbook - Second Edition(2020)](https://www.packtpub.com/product/modern-c-programming-cookbook-second-edition/9781800208988)
+- [CMake Cookbook(2018)](https://www.packtpub.com/product/cmake-cookbook/9781788470711)
+
 ## Python
 ## Ruby
 
