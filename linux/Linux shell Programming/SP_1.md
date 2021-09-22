@@ -5,7 +5,7 @@
 第1章Bash速成
 第2章文本與文件處理
 第3章精通文件系統
-第4章像守護進程一樣的腳本
+第4章像【守護進程 Daemon】一樣的腳本Making a Script Behave Like a Daemon
 第5章系統管理腳本
 第6章高級用戶專用腳本
 第7章Bash致勝之道
