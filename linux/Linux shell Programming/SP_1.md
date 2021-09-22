@@ -46,8 +46,8 @@ echo $VAR_B
 echo $VAR_C
 ```
 
-# 使用if、else、elseif進行條件邏輯判斷
-| 條件邏輯判斷 | 說明 | 數學符號 |
+# 使用if、else、elseif進行條件判斷
+| 條件判斷 | 說明 | 數學符號 |
 | -------| -------| --------|
 |-gt | greater than 大於| >|
 |-ge | greater or equal to 大於 或 等於 | >=|
