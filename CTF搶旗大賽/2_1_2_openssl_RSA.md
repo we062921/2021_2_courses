@@ -12,8 +12,22 @@
 
 - [How to encrypt messages/text with RSA & OpenSSL?](https://unix.stackexchange.com/questions/12260/how-to-encrypt-messages-text-with-rsa-openssl)
 
+### [Creating RSA Keys using OpenSSL(2020)](https://www.scottbrady91.com/OpenSSL/Creating-RSA-Keys-using-OpenSSL)
+```c
+# generate a private key with the correct length
+openssl genrsa -out private-key.pem 3072
 
-- [File encryption using OpenSSL](https://gist.github.com/crazybyte/4142975)
+# generate corresponding public key
+openssl rsa -in private-key.pem -pubout -out public-key.pem
+
+# optional: create a self-signed certificate
+openssl req -new -x509 -key private-key.pem -out cert.pem -days 360
+
+# optional: convert pem to pfx
+openssl pkcs12 -export -inkey private-key.pem -in cert.pem -out cert.pfx
+```
+
+###[File encryption[ using OpenSSL](https://gist.github.com/crazybyte/4142975)
 ```
 For symmetic encryption, you can use the following:
 
