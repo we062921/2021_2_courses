@@ -30,6 +30,9 @@
 - [我 Rust 我驕傲：生來高人一等的快速優雅語言 張漢東 深智數位](https://www.tenlong.com.tw/products/9789869772617)
   - 在 Docker 中使用 Rust 
 - [Rust 實戰：從入門到精通 (Beginning Rust: From Novice to Professional)Carlo Milanesi](https://www.tenlong.com.tw/products/9787111683674) 
+- [Rust Programming Cookbook(2019)](https://www.packtpub.com/product/rust-programming-cookbook/9781789530667)  [[GITHUB]](https://github.com/packtpublishing/rust-programming-cookbook)
+
+
 ### RUST Web programming 
 - [Practical Rust Web Projects: Building Cloud and Web-Based Applications Lyu, Shing(2021)](https://www.tenlong.com.tw/products/9781484265888)
 - [Programming WebAssembly with Rust| Kevin Hoffman(2019)](https://www.tenlong.com.tw/products/9781680506365)
