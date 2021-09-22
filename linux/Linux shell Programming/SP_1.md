@@ -108,7 +108,7 @@ delete_file "${FNAME}"
 exit 0
 ```
 
-## 使用《管道 pipe > >> 》連接多個命令以及輸入/輸出《重定向 Redirection  | 》
+## 使用《管道 pipe > 與>>(附加) 》連接多個命令以及輸入/輸出《重定向 Redirection  | 》
 ```bash
 #!/bin/sh
 
