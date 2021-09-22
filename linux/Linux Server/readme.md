@@ -25,6 +25,7 @@
   - [完整學會 Git, GitHub, Git Server 的 24堂課, 2/e 孫宏明 碁峰資訊(2018)](https://www.tenlong.com.tw/products/9789864766932) 
   - [和艦長一起 30 天玩轉 GitLab（iT邦幫忙鐵人賽系列書）陳正瑋 博碩文化()](https://www.tenlong.com.tw/products/9789864345311)
 - 網路監控伺服器 Zabbix  Prometheus、Ganglia  
+  - [Zabbix 5 IT Infrastructure Monitoring Cookbook(2021)](https://www.packtpub.com/product/zabbix-5-it-infrastructure-monitoring-cookbook/9781800202238) 
 
 ## 各類型應用導向的Linux 伺服器
 - 串流伺服器 與 Media Server: 很多 例舉數個  Kodi  Plex Jellyfin
