@@ -11,11 +11,14 @@
   - [How to test and validate DNSSEC using dig command line(2019)](https://blog.apnic.net/2019/05/23/how-to-deploying-dnssec-with-bind-and-ubuntu-server/) 
 - smb server :samba
 - LDAP server : OpenLDAP
+## 進階
 - 叢集伺服器 Keepalived、LVS、HAProxy
-
+- 雲端中心
+  - [Kubernetes 建置與執行 : 邁向基礎設施的未來, 2/e (Kubernetes: Up and Running: Dive into the Future of Infrastructure, 2/e)](https://www.tenlong.com.tw/products/9789865024895) 
 ## 開發與管理用的Linux 伺服器
 - 專案管理伺服器 Redmine
 - GitLab
+  - [完整學會 Git, GitHub, Git Server 的 24堂課, 2/e 孫宏明 碁峰資訊(2018)](https://www.tenlong.com.tw/products/9789864766932) 
 - 網路監控伺服器 Zabbix  Prometheus、Ganglia  
 
 ## 各類型應用導向的Linux 伺服器
