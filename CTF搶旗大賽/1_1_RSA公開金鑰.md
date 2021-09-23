@@ -10,11 +10,9 @@
 
 ## RSA加解密
 
-- 加密 使用公鑰pub={e,n}加密
-- ciphertext = (plaintext)^e mod n
+- 加密 使用公鑰pub={e,n}加密  ==> ciphertext = (plaintext)^e mod n
 
-- 解密 使用私鑰pri={d,n}解密
-- plaintext = (ciphertext )^d mod n
+- 解密 使用私鑰pri={d,n}解密  ==>  plaintext = (ciphertext )^d mod n
 
 <img src="https://render.githubusercontent.com/render/math?math=plaintext = (ciphertext )^{d} mod n">
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
