@@ -5,14 +5,21 @@
 
 http://factordb.com/
 
-## libnum : python套件
+## libnum 套件
+```
+libnum是python模組 ,具有底下功能:
 
-### google Colab 安裝
+使用質數primes(生成質數、是否為質數測試)
+普通數學運算（gcd、lcm、n'th root）
+模運算（逆，雅可比符號，平方根，求解 CRT）
+將字串轉換為數字或二進位字串
+```
+### 在Google Colab安裝 libnum
 ```
 !pip install libnum
 ```
 
-### 常用函式
+### 常用函式 ==> 將字串轉換為數字或二進位字串
 ```
 s2n(s) - packed string to number
 n2s(n) - number to packed string
@@ -31,9 +38,9 @@ number
 ```
 print(libnum.n2s(number))
 ```
-## gmpy2
+## [gmpy2]()
 
-https://gmpy2.readthedocs.io/en/latest/
+- [gmpy2’s documentation](https://gmpy2.readthedocs.io/en/latest/)
 
 ### google Colab 安裝 [GMPY2 doesn't install](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
 ```
