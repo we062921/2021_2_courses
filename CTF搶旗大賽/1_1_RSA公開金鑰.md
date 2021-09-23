@@ -98,9 +98,8 @@ c = 3239215176326729126961058656498334795189139519608425118263322559424516792217
 ```
 
 解題步驟
-1.使用線上工具 == > 質因數分解  http://factordb.com/
-  n=p*q*r
-2.撰寫python解題程式
+- 1.使用線上工具 == > 質因數分解  http://factordb.com/   n=p*q*r
+- 2.撰寫python解題程式
 ```
 #!/usr/bin/env python
 from Crypto.Util.number import *
