@@ -44,6 +44,13 @@
 - 求得e關於φ(n)的模反元素(module inverse)，命名為d {d*e mod φ(n) =1 }(模反元素存在，若且唯若e與 φ(n)互質）
 - 公鑰pub={e,n}    私鑰pri={d,n}
 
+### [英文版wiki](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+```
+英文版wiki 使用  λ(n) Carmichael's totient function.
+原始論文使用φ(n)=(p-1)(q-1)
+兩者皆可:
+any d satisfying d⋅e ≡ 1 (mod φ(n)) also satisfies d⋅e ≡ 1 (mod λ(n))
+```
 ## RSA加解密
 
 - 加密 使用公鑰pub={e,n}加密  ==> ciphertext = (plaintext)^e mod n
@@ -65,13 +72,7 @@
 公鑰pub={e,n}={7,187}
 私鑰pri={d,n}={23,187}
 ```
-### [英文版wiki](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-```
-英文版wiki 使用  λ(n) Carmichael's totient function.
-原始論文使用φ(n)=(p-1)(q-1)
-兩者皆可:
-any d satisfying d⋅e ≡ 1 (mod φ(n)) also satisfies d⋅e ≡ 1 (mod λ(n))
-```
+
 ### RSA加解密
 ```
 明文M=88
