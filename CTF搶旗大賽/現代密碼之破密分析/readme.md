@@ -22,3 +22,9 @@ number
 ```
 print(libnum.n2s(number))
 ```
+# gmpy2
+
+https://gmpy2.readthedocs.io/en/latest/
+
+!pip3 install gmpy2==2.1.0a2
+
