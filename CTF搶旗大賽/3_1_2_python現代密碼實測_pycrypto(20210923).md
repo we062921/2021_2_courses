@@ -2,6 +2,9 @@
 
 !pip install pycrypto
 
+
+## [pycrypto的子模組](https://pythonhosted.org/pycrypto/Crypto-module.html)
+
 |模組名稱 | 說明 |
 | ------| ------|
 |Crypto.Cipher | Secret-key (AES, DES, ARC4) and public-key encryption (RSA PKCS#1) algorithms|
@@ -11,9 +14,9 @@
 |Crypto.Signature |Public-key signature algorithms (RSA PKCS#1)|
 |Crypto.Util|Various useful modules and functions (long-to-string conversion, random number generation, number theoretic functions)|
 
-- [Crypto.Util.number 的 常用函式](https://pythonhosted.org/pycrypto/Crypto.Util.number-module.html)
+## [Crypto.Util.number 的 常用函式](https://pythonhosted.org/pycrypto/Crypto.Util.number-module.html)
 
-## 
+### 範例 
 ```python
 from Crypto.Util.number import GCD
 
