@@ -1,32 +1,45 @@
 # RSA
 
-- 隨意選擇兩個大的質數{\displaystyle p}p和{\displaystyle q}q，{\displaystyle p}p不等於{\displaystyle q}q
-- 計算{\displaystyle N=pq}N=pq。
-- 根據歐拉函數，求得{\displaystyle r=\varphi (N)=\varphi (p)\times \varphi (q)=(p-1)(q-1)}{\displaystyle r=\varphi (N)=\varphi (p)\times \varphi (q)=(p-1)(q-1)}
-- 選擇一個小於{\displaystyle r}r的整數{\displaystyle e}e，使{\displaystyle e}e與{\displaystyle r}r互質。並求得{\displaystyle e}e關於{\displaystyle r}r的模反元素，命名為{\displaystyle d}d（求{\displaystyle d}d令{\displaystyle ed\equiv 1{\pmod {r}}}{\displaystyle ed\equiv 1{\pmod {r}}}）。（模反元素存在，若且唯若{\displaystyle e}e與{\displaystyle r}r互質）
+### Key generation(產生key pair)
+- 隨意選擇兩個大的質數p和q[p不等於q]
+- 計算n=pq
+- 根據歐拉函數，求得 φ(n)=(p-1)(q-1)
+- 選擇一個小於φ(n)的整數e，使e與φ(n)互質
+- 求得e關於φ(n)的模反元素(module inverse)，命名為d {d*e mod φ(n) =1 }(模反元素存在，若且唯若e與 φ(n)互質）
+- 公鑰pub={e,n}    私鑰pri={d,n}
+
+## RSA加解密
+
+- 加密 使用公鑰pub={e,n}加密
+- ciphertext = (plaintext)^e mod n
+
+- 解密 使用私鑰pri={d,n}解密
+- plaintext = (ciphertext )^ mod n
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+## 範例說明
+### Key generation(產生key pair)
 ```
-Key generation(產生key pair)
-(1)Select primes p=17, q=11
+(1)Select primes隨意選擇兩個大的質數p和q，p不等於q    p=17, q=11
 (2)Compute n=pq=187
 (3)Compute φ(n)=(p-1)(q-1)=160
-(4)Select e=7GCD(7,160)=1
-(5)Compute d: d=23 7*23 mod 160=1
-(use the extended Euclid’s algorithm)
+(4)Select e=7  such that GCD(7,160)=1
+(5)Compute d: d=23 ==> 7*23 mod 160=1 (use the extended Euclid’s algorithm)
 
 公鑰pub={e,n}={7,187}
 私鑰pri={d,n}={23,187}
-
-==================================
+```
+### RSA加解密
+```
 明文M=88
 加密(Encrypt): 88^7mod 187
 88^7mod 187 =  11(密文C)
 
-==================================
 解密Decrypt C=11: 11^23mod 187
 M=11^23 mod 187=88
 ```
+
 # 攻擊RSA
 
 # 小n攻擊
