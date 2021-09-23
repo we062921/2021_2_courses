@@ -1,17 +1,26 @@
-# 使用線上工具 == > 質因數分解    
+# 破密分析常用工具
+
+
+## 使用線上工具 == > 質因數分解    
 
 http://factordb.com/
 
-# libnum : python套件
+## libnum : python套件
 
+### google Colab 安裝
+```
 !pip install libnum
+```
 
+### 常用函式
 ```
 s2n(s) - packed string to number
 n2s(n) - number to packed string
 s2b(s) - packed string to binary string
 b2s(b) - binary string to packed string
 ```
+
+### 範例練習
 ```python
 import libnum
 
@@ -22,11 +31,11 @@ number
 ```
 print(libnum.n2s(number))
 ```
-# gmpy2
+## gmpy2
 
 https://gmpy2.readthedocs.io/en/latest/
 
-## google Colab 安裝 [GMPY2 doesn't install](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
+### google Colab 安裝 [GMPY2 doesn't install](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
 ```
 !apt install libmpc-dev
 !pip3 install --user gmpy2==2.1.0a2
