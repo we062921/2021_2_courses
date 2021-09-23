@@ -31,6 +31,10 @@ https://gmpy2.readthedocs.io/en/latest/
 !apt install libmpc-dev
 !pip3 install --user gmpy2==2.1.0a2
 ```
+## conda安裝
+```
+conda install gmpy2
+```
 
 # 學習資源
 
