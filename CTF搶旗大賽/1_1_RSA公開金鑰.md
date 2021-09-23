@@ -1,6 +1,6 @@
 # [Public-key cryptography公開金鑰](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
-  - 著名被廣泛運用的公開金鑰(Examples of well-regarded asymmetric key techniques for varied purposes)
+- 著名被廣泛運用的公開金鑰(Examples of well-regarded asymmetric key techniques for varied purposes)
   - Diffie–Hellman key exchange protocol
   - DSS (Digital Signature Standard), which incorporates the Digital Signature Algorithm
   - ElGamal
