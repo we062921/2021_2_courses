@@ -1,5 +1,41 @@
-# RSA
+# [Public-key cryptography公開金鑰](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
+- 著名被廣泛運用的公開金鑰(Examples of well-regarded asymmetric key techniques for varied purposes)
+- Diffie–Hellman key exchange protocol
+- DSS (Digital Signature Standard), which incorporates the Digital Signature Algorithm
+- ElGamal
+- Elliptic-curve cryptography
+  - Elliptic Curve Digital Signature Algorithm (ECDSA)
+  - Elliptic-curve Diffie–Hellman (ECDH)
+  - Ed25519 and Ed448 (EdDSA)
+  - X25519 and X448 (ECDH/EdDH)
+- Various password-authenticated key agreement techniques
+- Paillier cryptosystem
+- RSA encryption algorithm (PKCS#1)
+- Cramer–Shoup cryptosystem
+- YAK authenticated key agreement protocol
+
+- 著名但不被廣泛運用的公開金鑰 Examples of asymmetric key algorithms not yet widely adopted include:
+  - NTRUEncrypt cryptosystem
+  - McEliece cryptosystem
+
+- 著名但不安全的公開金鑰(Examples of notable – yet insecure – asymmetric key algorithms)
+  - Merkle–Hellman knapsack cryptosystem
+
+- 使用公開金鑰的網路協定(Examples of protocols using asymmetric key algorithms)
+  - S/MIME
+  - GPG, an implementation of OpenPGP, and an Internet Standard
+  - EMV, EMV Certificate Authority
+  - IPsec
+  - PGP
+  - ZRTP, a secure VoIP protocol
+  - Transport Layer Security(TLS) 及其前身 Secure Socket Layer(SSL)
+  - SILC
+  - SSH
+  - Bitcoin
+  - [Off-the-Record Messaging (OTR)](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
+
+# [RSA公開金鑰](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 ### Key generation(產生key pair)
 - 隨意選擇兩個大的質數p和q[p不等於q]
 - 計算n=pq
