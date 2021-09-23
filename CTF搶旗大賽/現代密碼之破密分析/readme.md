@@ -26,6 +26,7 @@ print(libnum.n2s(number))
 
 https://gmpy2.readthedocs.io/en/latest/
 
+## google Colab 安裝 [GMPY2 doesn't install](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
 ```
 !apt install libmpc-dev
 !pip3 install --user gmpy2==2.1.0a2
