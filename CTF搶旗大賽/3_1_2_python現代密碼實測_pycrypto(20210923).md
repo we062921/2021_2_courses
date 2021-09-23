@@ -2,6 +2,16 @@
 
 !pip install pycrypto
 
+- [Module number](https://pythonhosted.org/pycrypto/Crypto.Util.number-module.html)
+
+## 
+```python
+from Crypto.Util.number import GCD
+
+GCD(12,18)
+```
+
+
 
 ## AES對稱式加解密
 ### AES加密
