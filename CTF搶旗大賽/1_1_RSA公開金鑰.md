@@ -1,19 +1,19 @@
 # [Public-key cryptography公開金鑰](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
-- 著名被廣泛運用的公開金鑰(Examples of well-regarded asymmetric key techniques for varied purposes)
-- Diffie–Hellman key exchange protocol
-- DSS (Digital Signature Standard), which incorporates the Digital Signature Algorithm
-- ElGamal
-- Elliptic-curve cryptography
-  - Elliptic Curve Digital Signature Algorithm (ECDSA)
-  - Elliptic-curve Diffie–Hellman (ECDH)
-  - Ed25519 and Ed448 (EdDSA)
-  - X25519 and X448 (ECDH/EdDH)
-- Various password-authenticated key agreement techniques
-- Paillier cryptosystem
-- RSA encryption algorithm (PKCS#1)
-- Cramer–Shoup cryptosystem
-- YAK authenticated key agreement protocol
+  - 著名被廣泛運用的公開金鑰(Examples of well-regarded asymmetric key techniques for varied purposes)
+  - Diffie–Hellman key exchange protocol
+  - DSS (Digital Signature Standard), which incorporates the Digital Signature Algorithm
+  - ElGamal
+  - [Elliptic-curve cryptography橢圓曲線密碼學](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
+    - Elliptic Curve Digital Signature Algorithm (ECDSA)
+    - Elliptic-curve Diffie–Hellman (ECDH)
+    - Ed25519 and Ed448 (EdDSA)
+    - X25519 and X448 (ECDH/EdDH)
+  - Various password-authenticated key agreement techniques
+  - Paillier cryptosystem
+  - [RSA encryption algorithm (PKCS#1)RSA加密演算法](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+  - Cramer–Shoup cryptosystem
+  - YAK authenticated key agreement protocol
 
 - 著名但不被廣泛運用的公開金鑰 Examples of asymmetric key algorithms not yet widely adopted include:
   - NTRUEncrypt cryptosystem
@@ -86,7 +86,7 @@ M=11^23 mod 187=88
 
 # 小n攻擊 [中文版wiki](https://en.wikipedia.org/wiki/RSA加密演算法)
 - n太小 可很容易被質因數分解出
-- n = pq   15 =5*3  187 = 17*11
+- n = p * q   15 = 5 * 3  187 = 17 * 11
 
 - 1999年，RSA-155 (512 bits)被成功分解，花了五個月時間（約8000 MIPS年）和224 CPU hours在一台有3.2G中央記憶體的Cray C916電腦上完成
 - RSA-155表示如下：
