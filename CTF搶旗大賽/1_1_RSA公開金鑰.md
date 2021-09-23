@@ -4,6 +4,8 @@
 - 計算{\displaystyle N=pq}N=pq。
 - 根據歐拉函數，求得{\displaystyle r=\varphi (N)=\varphi (p)\times \varphi (q)=(p-1)(q-1)}{\displaystyle r=\varphi (N)=\varphi (p)\times \varphi (q)=(p-1)(q-1)}
 - 選擇一個小於{\displaystyle r}r的整數{\displaystyle e}e，使{\displaystyle e}e與{\displaystyle r}r互質。並求得{\displaystyle e}e關於{\displaystyle r}r的模反元素，命名為{\displaystyle d}d（求{\displaystyle d}d令{\displaystyle ed\equiv 1{\pmod {r}}}{\displaystyle ed\equiv 1{\pmod {r}}}）。（模反元素存在，若且唯若{\displaystyle e}e與{\displaystyle r}r互質）
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 ```
 Key generation(產生key pair)
 (1)Select primes p=17, q=11
