@@ -16,7 +16,7 @@
 - 解密 使用私鑰pri={d,n}解密
 - plaintext = (ciphertext )^d mod n
 
-<img src="https://render.githubusercontent.com/render/plaintext?plaintext = (ciphertext )^{d} mod n">
+<img src="https://render.githubusercontent.com/render/math?math=plaintext = (ciphertext )^{d} mod n">
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 ## 範例說明
