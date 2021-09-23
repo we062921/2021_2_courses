@@ -16,7 +16,7 @@
 
 ## [Crypto.Util.number 的 常用函式](https://pythonhosted.org/pycrypto/Crypto.Util.number-module.html)
 
-### 範例 
+### 範例: 求取12與18的最大公因數
 ```python
 from Crypto.Util.number import GCD
 
