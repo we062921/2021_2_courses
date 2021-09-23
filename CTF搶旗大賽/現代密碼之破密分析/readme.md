@@ -26,10 +26,14 @@ print(libnum.n2s(number))
 
 https://gmpy2.readthedocs.io/en/latest/
 
-!pip3 install gmpy2==2.1.0a2
+```
+!apt install libmpc-dev
+!pip3 install --user gmpy2==2.1.0a2
+```
 
-# 學習資源 https://cryptopals.com/
+# 學習資源
 
+- 練習作業: 完成 https://cryptopals.com/ 的八道題組
 
 ```python
 
