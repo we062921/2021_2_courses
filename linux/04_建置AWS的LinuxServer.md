@@ -46,3 +46,5 @@
   - [1]最基本且必要的root 的MFA(Multi Factor Authentication,多重驗證) 啟用
   - [2]建立一般的IAM 使用者。
   - MFA(Multi Factor Authentication,多重驗證) 啟用與設定
+
+## 建立IAM 使用者
