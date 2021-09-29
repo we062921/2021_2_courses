@@ -28,3 +28,14 @@ print() ==> show your result to Monitor
 x = input('Show me your money')
 print("Thank for your money " + x)
 ```
+
+```
+You want to know the data type of x ==> Use type() function
+type(x)
+```
+## Python4 
+```
+write a program
+read some money from keyboard  say x <--- money
+add 12345 dollars to x  ==> y = x + 12345  
+```
