@@ -39,3 +39,8 @@ write a program
 read some money from keyboard  say x <--- money
 add 12345 dollars to x  ==> y = x + 12345  
 ```
+## python5
+```python
+a,b = eval(input("PLease input two digits:"))
+a,b
+```
