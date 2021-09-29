@@ -20,4 +20,11 @@ print("pandas version: %s" % pd.__version__)
 ## Python3: basic input and output
 ```
 input() ==> read data from keyboard
+
+print() ==> show your result to Monitor
 ```
+```python
+
+x = input('Show me your money')
+print("Thank for your money " + x)
+``
