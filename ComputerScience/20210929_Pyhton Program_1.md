@@ -1,4 +1,6 @@
-python
+# python
+
+- https://discord.gg/YKnutrsZ
 
 - 1. find Google colab
 - 2. log in with Google account
@@ -13,4 +15,9 @@ print("" Hello My friends!")
 ```python
 import pandas as pd
 print("pandas version: %s" % pd.__version__)
+```
+
+## Python3: basic input and output
+```
+input() ==> read data from keyboard
 ```
