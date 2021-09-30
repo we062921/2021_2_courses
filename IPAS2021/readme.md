@@ -3,7 +3,7 @@
 - [資訊安全【技術】概論](#資訊安全技術概論)
 
 
-# [報名表單}(https://reurl.cc/xEQLGZ)
+# [報名表單](https://reurl.cc/xEQLGZ)
 
 ## 資訊安全管理概論
 
