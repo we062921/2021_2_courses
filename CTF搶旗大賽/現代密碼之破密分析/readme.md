@@ -38,8 +38,22 @@ number
 ```
 print(libnum.n2s(number))
 ```
-## [gmpy2]()
 
+## [sympy](https://www.sympy.org/en/index.html)
+- SymPy是一個符號計算的Python庫。
+- 它的目標是成為一個全功能的計算機代數系統，同時保持代碼簡潔、易於理解和擴展。
+- 它完全由Python寫成，不依賴於外部庫。 
+- SymPy支持符號計算、高精度計算、模式匹配、繪圖、解方程、微積分、組合數學、離散數學、幾何學、概率與統計、物理學等方面的功能
+
+```
+!pip install sympy
+
+from sympy import mod_inverse
+mod_inverse(11, 35) # returns 16
+```
+
+
+## [gmpy2]()
 - [gmpy2’s documentation](https://gmpy2.readthedocs.io/en/latest/)
 
 ### google Colab 安裝 [GMPY2 doesn't install](https://stackoverflow.com/questions/50474091/gmpy2-doesnt-install)
