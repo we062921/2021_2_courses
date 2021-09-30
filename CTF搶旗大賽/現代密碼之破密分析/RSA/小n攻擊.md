@@ -22,17 +22,23 @@ c = 3239215176326729126961058656498334795189139519608425118263322559424516792217
 ##
 ```
 !sudo pip install pycrypto
-
-
+```
+```
 !sudo apt install libmpc-dev
 !sudo apt install python3-pip
 !pip3 install --user gmpy2==2.1.0a2
 ```
-##
+```
+!pip install sympy
+
+from sympy import mod_inverse
+mod_inverse(11, 35) # returns 16
+```
+## 解答一
 ```
 #!/usr/bin/env python
 from Crypto.Util.number import *
-import gmpy2
+# import gmpy2
 
 p =2262150367
 q =3006300461
@@ -45,8 +51,8 @@ c =32392151763267291269610586564983347951891395196084251182633225594245167922176
 
 phi = (p-1)*(q-1)*(r-1)
 
-d = int(gmpy2.invert(e, phi))
-
+#d = int(gmpy2.invert(e, phi))
+d =mod_inverse(e, phi)
 m = pow(c,d,n)
 
 print(long_to_bytes(m))
