@@ -1,10 +1,4 @@
-# 錄影教學
 
-- [匯入Kali Linux](https://youtu.be/SX6jP4QIoF0)
-
-- [windows XP 滲透測試](https://youtu.be/HOnuZAnZkx8)
-
-- [[主機板] Intel主機板如何通過BIOS開啟虛擬化功能(Virtualization Technology)](https://www.asus.com/tw/support/FAQ/1043786/)
 
 # Goolge Meets
 
