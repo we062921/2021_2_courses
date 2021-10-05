@@ -17,4 +17,4 @@ print(date)
 
 ###
 
-[![剪輯版Pt@20211004E](https://img.youtube.com/vi/v=HOnuZAnZkx8/0.jpg)](https://www.youtube.com/watch?v=HOnuZAnZkx8)
+[![剪輯版Pt@20211004E](https://img.youtube.com/vi/HOnuZAnZkx8/0.jpg)](https://www.youtube.com/watch?v=HOnuZAnZkx8)
