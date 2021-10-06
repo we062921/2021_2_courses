@@ -30,6 +30,8 @@ da5c61e1edc0f18337e46418e48c1290  hello
 - 長度擴充攻擊 (LEA Attack)Length extension attack ==> 攻擊[Merkle–Damgård Construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
   - [Merkle–Damgård Construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
   - [HashPump](https://github.com/bwall/HashPump)
+  - [hashpumpy:Python bindings for HashPump](https://github.com/bwall/HashPump)
+  - Hashpump是一個專門利用Hash Length Extension Attack的工具,支援MD5, SHA1, SHA256, SHA512幾種常見加密演算法,使用C/C++編寫,支援python拓展
   - 如何避免被LEA??
     - 避免使用Merkle–Damgård based hash:==> 使用 HMAC |keyed-hash Message authentication code |金鑰雜湊訊息鑑別碼 ==> HMAC-MD5、HMAC-SHA1
     - 使用更安全的HASH: Truncated versions of SHA-2, including SHA-384 and SHA256/512  SHA-3
