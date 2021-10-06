@@ -20,8 +20,7 @@ da5c61e1edc0f18337e46418e48c1290  hello
 ## 長度擴充攻擊 (LEA Attack)Length extension attack 
 - 攻擊[Merkle–Damgård Construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
 - [Merkle–Damgård Construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
-- [HashPump](https://github.com/bwall/HashPump)
-- [hashpumpy:Python bindings for HashPump](https://github.com/bwall/HashPump)
+- [HashPump/hashpumpy:Python bindings for HashPump](https://github.com/bwall/HashPump)
 - Hashpump是一個專門利用Hash Length Extension Attack的工具,支援MD5, SHA1, SHA256, SHA512幾種常見加密演算法,使用C/C++編寫,支援python拓展
 
 - 如何避免被LEA??
