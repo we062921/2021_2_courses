@@ -14,8 +14,10 @@
  
 ## Creating(建立) and Deleting(刪除) User Accounts(使用者帳號)
 
-- 指令 ==> useradd <name>
+- 指令 ==> useradd ksu2021a
 - [各種參數](https://www.linode.com/docs/guides/linux-users-and-groups/)
+
+- useradd ksu2021ab -d /home/ksu2021ab
   
 | Option(選項)|	Description(敘述)|	Example(範例)|
 | ----| ------| ------|
