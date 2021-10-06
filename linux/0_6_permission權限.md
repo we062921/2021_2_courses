@@ -1,5 +1,7 @@
 # permission權限
 
+- [參考資料](File Permissions in Linux/Unix: How to Read/Write & Change?)
+
 - ls -al /etc
 
 ```
