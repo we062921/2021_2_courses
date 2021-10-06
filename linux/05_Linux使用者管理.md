@@ -66,5 +66,10 @@ userdel -r <name>
   
 apt-get install adduser
 
+## 切換帳號與變換身份
+
+  - 使用一般帳號登入系統,若想要轉變成管理者身份,只要執行 su指令並輸入 root 帳號的密碼幾即可 
+  
+  
 # 
 newgrp <marketing>
