@@ -191,3 +191,25 @@ with open(filename, "rb") as f:
 h = m.hexdigest()
 print(h)
 ```
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+# 載入 hashlib 模組
+import hashlib
+
+# 先建立 MD5 物件
+m = hashlib.md5()
+
+# 要 hash 的 資料
+flag2 = "cTF2021{happppy Hash}"
+
+# 記得要先設定utf-8編碼
+m.update(flag2.encode('utf-8'))
+
+# 計算 MD5 雜湊值
+h = m.hexdigest()
+print(h)
+![image](https://user-images.githubusercontent.com/37649784/136262827-bd0e4ae1-0f6b-4660-8e03-621f95d5dd53.png)
+
+```
