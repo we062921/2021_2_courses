@@ -11,7 +11,6 @@ drwxr-xr-x  20 root     root      36864 Oct  6 07:23 ..
 drwxr-xr-x   3 root     root       4096 May 17  2019 alsa
 drwxr-xr-x   2 root     root      20480 May 17  2019 alternatives
 
-....
 
 lrwxrwxrwx   1 root     root         30 May 17  2019 localtime -> /usr/share/zoneinfo/US/Eastern
 ....
