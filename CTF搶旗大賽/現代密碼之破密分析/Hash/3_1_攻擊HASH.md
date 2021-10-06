@@ -27,3 +27,27 @@ da5c61e1edc0f18337e46418e48c1290  hello
 - 如何避免被LEA??
   - 避免使用Merkle–Damgård based hash:==> 使用 HMAC |keyed-hash Message authentication code |金鑰雜湊訊息鑑別碼 ==> HMAC-MD5、HMAC-SHA1
   - 使用更安全的HASH: Truncated versions of SHA-2, including SHA-384 and SHA256/512  SHA-3
+
+## Google colab 實測
+```
+!pip install hashpumpy
+```
+```
+import hashpumpy 
+help(hashpumpy.hashpump)
+```
+```
+Help on built-in function hashpump in module hashpumpy:
+
+hashpump(...)
+    hashpump(hexdigest, original_data, data_to_add, key_length) -> (digest, message)
+    
+    Arguments:
+        hexdigest(str):      Hex-encoded result of hashing key + original_data.
+        original_data(str):  Known data used to get the hash result hexdigest.
+        data_to_add(str):    Data to append
+        key_length(int):     Length of unknown data prepended to the hash
+    
+    Returns:
+        A tuple containing the new hex digest and the new message.
+```
