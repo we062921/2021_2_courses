@@ -62,8 +62,14 @@ root
 root@kali:~# 
 ```
 
+## kali:useradd
+```
+底下兩者有何差別?
+useradd -m ksuksu
+useradd ksu2021a
+```
 
-## U
+## Ubuntu
 - 指令 ==> useradd ksu2021a
 - [各種參數](https://www.linode.com/docs/guides/linux-users-and-groups/)
 
