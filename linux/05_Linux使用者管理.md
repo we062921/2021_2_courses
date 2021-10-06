@@ -13,6 +13,39 @@
  
  
 ## Creating(建立) and Deleting(刪除) User Accounts(使用者帳號)
+- 不同Linux版本使用不同指令
+  - Ubuntu Linux  ==> 使用 useradd
+  - Kali Linux  ==> 使用adduser
+
+## Kali Linux
+```
+底下兩者有何差異?
+adduser --home /home/ksu20211006 ksu20211006
+
+adduser --home /ksu2021b ksu2021b
+```
+```
+root@kali:/home# adduser --home /home/ksu20211006 ksu20211006
+Adding user `ksu20211006' ...
+Adding new group `ksu20211006' (1003) ...
+Adding new user `ksu20211006' (1003) with group `ksu20211006' ...
+Creating home directory `/home/ksu20211006' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for ksu20211006
+Enter the new value, or press ENTER for the default
+	Full Name []: 
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] 
+
+```
+
+
 
 - 指令 ==> useradd ksu2021a
 - [各種參數](https://www.linode.com/docs/guides/linux-users-and-groups/)
