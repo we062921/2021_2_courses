@@ -44,7 +44,7 @@ Enter the new value, or press ENTER for the default
 Is the information correct? [Y/n] 
 
 ```
-## 切換使用者身分 su
+## Kali:切換使用者身分 su
 - 退出使用者身分 ==> 使用exit
 ```
 root@kali:~# pwd
@@ -62,6 +62,8 @@ root
 root@kali:~# 
 ```
 
+
+## U
 - 指令 ==> useradd ksu2021a
 - [各種參數](https://www.linode.com/docs/guides/linux-users-and-groups/)
 
