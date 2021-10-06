@@ -15,13 +15,13 @@
 ## Creating(建立) and Deleting(刪除) User Accounts(使用者帳號)
 
 - 指令 ==> useradd <name>
-
+- [各種參數](https://www.linode.com/docs/guides/linux-users-and-groups/)
 | Option(選項)|	Description(敘述)|	Example(範例)|
 | ----| ------| ------|
 |-d <home_dir>|	使用home_dir 當作使用者登入的目錄	|useradd <name> -d /home/<user's home>|
-| -e <date>|	設定帳號過期日|	useradd <name>** -e <YYYY-MM-DD> |
-|-f <inactive>|	the number of days before the account expires|	useradd <name> -f <0 or -1>
-|-s <shell>|	sets the default shell type| 	useradd <name> -s /bin/<shell>|
+| -e `<date>`|	設定帳號過期日|`useradd <name>** -e <YYYY-MM-DD>` |
+|-f `<inactive>`|	the number of days before the account expires|`useradd <name> -f <0 or -1>`|
+|-s `<shell>`|	sets the default shell type|`useradd <name> -s /bin/<shell>`|
 
 - 假設要建立的帳號已被他人所佔用, 則會出現使用者已存在的訊息
 
