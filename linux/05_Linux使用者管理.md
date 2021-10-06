@@ -45,7 +45,7 @@ Is the information correct? [Y/n]
 
 ```
 ## 切換使用者身分 su
-- 退出使用主身分 ==> 使用exit
+- 退出使用者身分 ==> 使用exit
 ```
 root@kali:~# pwd
 /root
