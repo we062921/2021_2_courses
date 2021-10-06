@@ -44,8 +44,22 @@ Enter the new value, or press ENTER for the default
 Is the information correct? [Y/n] 
 
 ```
-
-
+## 切換使用者身分
+```
+root@kali:~# pwd
+/root
+root@kali:~# su ksu20211006
+ksu20211006@kali:/root$ whoami
+ksu20211006
+ksu20211006@kali:/root$ cd
+ksu20211006@kali:~$ pwd
+/home/ksu20211006
+ksu20211006@kali:~$ exit
+exit
+root@kali:~# whoami
+root
+root@kali:~# 
+```
 
 - 指令 ==> useradd ksu2021a
 - [各種參數](https://www.linode.com/docs/guides/linux-users-and-groups/)
