@@ -62,6 +62,7 @@ Full documentation at: <https://www.gnu.org/software/coreutils/chmod>
 or available locally via: info '(coreutils) chmod invocation'
 ```
 
+### 使用root開發底下c程式
 
 hello.c
 ```c
