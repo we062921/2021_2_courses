@@ -86,3 +86,48 @@ or available locally via: info '(coreutils) sha1sum invocation'
 - [python中hashlib模組詳解](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/615922/)
 
 - hashlib主要提供字元加密功能，將md5和sha模組整合到了一起，支援md5,sha1, sha224, sha256, sha384, sha512等演算法
+
+```python
+#!/usr/bin/python3
+import hashlib
+
+m1 = hashlib.md5()
+m2 = hashlib.md5()
+
+data1 = "abc"
+data2 = "Abc"
+
+# 先將資料編碼，再更新 MD5 雜湊值
+m1.update(data1.encode("utf-8"))
+m2.update(data2.encode("utf-8"))
+
+h1 = m1.hexdigest()
+h2 = m2.hexdigest()
+
+print(h1)
+print(h2)
+```
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import hashlib
+
+# 輸入檔案名稱
+filename = "test.txt"
+
+m = hashlib.md5()
+
+# 讀取檔案內容，計算 MD5 雜湊值
+with open(filename, "rb") as f:
+  buf = f.read()
+  m.update(buf)
+
+h = m.hexdigest()
+print(h)
+```
+```
+得到的答案為 0bee89b07a248e27c83fc3d5951213c1
+和底下的一樣
+
+!md5sum test.txt  ==> 0bee89b07a248e27c83fc3d5951213c1  test.txt  ==>32*4 bits =128 bits
