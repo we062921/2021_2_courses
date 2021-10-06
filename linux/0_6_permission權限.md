@@ -14,8 +14,10 @@ drwxr-xr-x   2 root     root      20480 May 17  2019 alternatives
 
 lrwxrwxrwx   1 root     root         30 May 17  2019 localtime -> /usr/share/zoneinfo/US/Eastern
 ....
+```
+## lrwxrwxrwx 各欄位說明
 
-##
+![權限.png](權限.png)
 ```
 - == > 一般檔案
 d == >目錄 (directory)
