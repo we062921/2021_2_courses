@@ -1,4 +1,4 @@
-#
+# permission權限
 
 - ls -al /etc
 
@@ -34,7 +34,7 @@ x => execute permission == > 1
 – => no permission == > 0
 ```
 
-## 改變權限 chmod 
+## 改變權限(Change access permissions) chmod 
 ```
 chmod --help
 Usage: chmod [OPTION]... MODE[,MODE]... FILE...
