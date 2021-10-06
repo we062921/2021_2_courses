@@ -1,6 +1,36 @@
 #
-- [Linux指令](#Linux指令)
-- [Python Hash](#Python_Hashlib)
+## HASH基本觀念
+- [md5(MD5 message-digest algorithm)](https://en.wikipedia.org/wiki/MD5)
+  -  MD5 was designed by Ronald Rivest in 1991 to replace an earlier hash function MD4
+  -  MD5 was specified in 1992 as RFC 1321.
+
+## HASH計算
+- [使用Linux指令計算HASH](#Linux指令)
+- [使用Python模組計算Hash](#Python_Hashlib)
+- [使用openssl模組計算Hash]
+
+## 攻擊HASH
+- Collision attack
+  - [Are there two known strings which have the same MD5 hash value?](https://crypto.stackexchange.com/questions/1434/are-there-two-known-strings-which-have-the-same-md5-hash-value) 
+  - [MD5 Collision Demo](http://www.mathstat.dal.ca/~selinger/md5collision/)
+```
+root@kali:~/ctf# cd crytpo/
+root@kali:~/ctf/crytpo# ls
+erase  hello
+root@kali:~/ctf/crytpo# md5sum erase 
+da5c61e1edc0f18337e46418e48c1290  erase
+root@kali:~/ctf/crytpo# md5sum hello 
+da5c61e1edc0f18337e46418e48c1290  hello
+```
+  - [Sha-1 collision(2017)](http://thehackernews.com/2017/02/sha1-collision-attack.html) [[]](https://shattered.io/)
+
+
+- 長度擴充攻擊 (LEA Attack)Length extension attack ==> 攻擊[Merkle–Damgård Construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
+  - [Merkle–Damgård Construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
+  - [HashPump](https://github.com/bwall/HashPump)
+  - 如何避免被LEA??
+    - 避免使用Merkle–Damgård based hash:==> 使用 HMAC |keyed-hash Message authentication code |金鑰雜湊訊息鑑別碼 ==> HMAC-MD5、HMAC-SHA1
+    - 使用更安全的HASH: Truncated versions of SHA-2, including SHA-384 and SHA256/512  SHA-3
 
 
 ## Linux指令:md5sum, sha1sum
