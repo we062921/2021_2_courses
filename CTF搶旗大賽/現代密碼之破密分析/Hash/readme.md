@@ -22,7 +22,9 @@ da5c61e1edc0f18337e46418e48c1290  erase
 root@kali:~/ctf/crytpo# md5sum hello 
 da5c61e1edc0f18337e46418e48c1290  hello
 ```
-  - [Sha-1 collision(2017)](http://thehackernews.com/2017/02/sha1-collision-attack.html) [[]](https://shattered.io/)
+  - [Sha-1 collision(2017)](http://thehackernews.com/2017/02/sha1-collision-attack.html) 
+    - Google Achieves First-Ever Successful SHA-1 Collision Attack 
+    - [shattered:We have broken SHA-1 in practice.](https://shattered.io/)
 
 
 - 長度擴充攻擊 (LEA Attack)Length extension attack ==> 攻擊[Merkle–Damgård Construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
