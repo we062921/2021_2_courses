@@ -1,0 +1,5 @@
+
+HTML code to add buttons  
+
+  <button type="button" onclick="bigger()">Bigger</button>
+  <button type="button" onclick="smaller()">Smaller</button>

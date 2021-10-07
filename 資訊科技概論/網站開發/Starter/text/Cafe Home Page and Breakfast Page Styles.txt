@@ -1,0 +1,41 @@
+Home Page Styles (declared in the head section of index.html)  
+
+  <style>
+    h1 {
+      font-family: fantasy;
+      color: slategray;
+    }
+    p {
+      font-family: sans-serif;
+      color: rgb(0, 0, 128);  
+    }
+
+    li {
+      font-family: sans-serif;
+      color: #000080;
+    }
+  </style>
+
+Breakfast Page Styles (declared in the head section of breakfast.html) 
+
+  <style>
+    h1 {
+      font-family: fantasy;
+      color: #448ccb;  /* banner blue */
+    }
+
+    h2 {
+      font-family: fantasy;
+      color: #ffbe42;  /* banner orange */
+    }
+
+    p {
+      font-family: sans-serif;
+      color: darkslategray;
+    }
+
+    li {
+      font-family: sans-serif;
+      color: darkslategray;
+    }
+  </style>

@@ -1,0 +1,10 @@
+JavaScript code to change font size  
+
+  <script>
+    function bigger(){
+      document.getElementById('body').style.fontSize='x-large';
+    }
+    function smaller(){
+      document.getElementById('body').style.fontSize='medium';
+    }
+  </script>
