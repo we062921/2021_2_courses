@@ -1,5 +1,8 @@
 #
 ## HASH基本觀念
+
+![HASH.png](HASH.png)
+
 - [md5(MD5 message-digest algorithm)](https://en.wikipedia.org/wiki/MD5)
   -  MD5 was designed by Ronald Rivest in 1991 to replace an earlier hash function MD4
   -  MD5 was specified in 1992 as RFC 1321.
