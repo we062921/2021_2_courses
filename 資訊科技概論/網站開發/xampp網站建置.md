@@ -62,6 +62,8 @@ c:\xampp>dir *.exe
 </html>
 ```
 
+![web1.png](web1.png)
+
 ## 我的第一支程式
 ```html
 <!DOCTYPE html>
@@ -80,6 +82,7 @@ c:\xampp>dir *.exe
 </body>
 </html>
 ```
+![web2.png](web2.png)
 
 ## 第二支程式
 ```html
@@ -101,5 +104,6 @@ c:\xampp>dir *.exe
 
 </body>
 </html>
-
 ```
+
+![web3.png](web3.png)
