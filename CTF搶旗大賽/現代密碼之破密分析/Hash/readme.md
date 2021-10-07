@@ -1,8 +1,20 @@
 #
 ## HASH基本觀念
 
+- HASH雜湊函式與雜湊值(hash value)
+
 ![HASH.png](HASH.png)
 
+
+- 任意長度的訊息計算後得到 固定長度的雜湊值
+  - md5是128 bits
+  - sha1是160 bits
+
+![HASH2.png](HASH2.png)
+
+- [資料來源](http://www.unixwiz.net/techtips/iguide-crypto-hashes.html)
+
+## HASH演算法
 - [md5(MD5 message-digest algorithm)](https://en.wikipedia.org/wiki/MD5)
   -  MD5 was designed by Ronald Rivest in 1991 to replace an earlier hash function MD4
   -  MD5 was specified in 1992 as RFC 1321.
