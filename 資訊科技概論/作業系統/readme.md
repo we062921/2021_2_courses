@@ -9,4 +9,9 @@
 !gcc --version
 
 !g++ --version
+
+
+!javac --help
+
+!java -h
 ```
