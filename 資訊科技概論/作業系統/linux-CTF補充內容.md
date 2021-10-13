@@ -53,7 +53,8 @@ socat  TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
 
 - 提示 : 80 Port  ==> 怎模看網頁? 指令列? ==> curl
 - 上網肉搜  linux curl
-  - 
+  - [Linux Curl Command 指令與基本操作入門教學](https://blog.techbridge.cc/2019/02/01/linux-curl-command-tutorial/)
+  - [curl command in Linux with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/curl-command-in-linux-with-examples/)
  
 - curl 127.0.0.1
 
