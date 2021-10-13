@@ -101,12 +101,41 @@
 | Linux-3 | https://youtu.be/L9PEB_4ATYI  |
 | Linux-4 | https://youtu.be/jn3AihYJF7c  |
 
+
+#### linux-5解答[錄影教學請看最底下]
+
+![linux-5.png](linux-5.png)
+
 | 影片主題 |  YOUTUBE網址  |
 |-----| -------|
 | Linux-5| https://youtu.be/0sL5roF04pI  |
 
 
+
+
+
 ### linux-102解答
+
+#### linux-6解答[錄影教學請看最底下]
+
+![linux-6.png](linux-6.png)
+
+#### linux-7解答[錄影教學請看最底下]
+
+![linux-7.png](linux-7.png)
+
+#### linux-8解答[錄影教學請看最底下]
+
+![linux-8.png](linux-8.png)
+
+#### linux-9解答[錄影教學請看最底下]
+
+![linux-9.png](linux-9.png)
+
+#### linux-10解答[錄影教學請看最底下]
+
+![linux-6.png](linux-10.png)
+
 | 影片主題 |  YOUTUBE網址  |
 |-----| -------|
 | Linux-6| https://youtu.be/SAUmLs5Sou0  |
