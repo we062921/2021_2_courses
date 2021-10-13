@@ -29,6 +29,16 @@ socat  TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
 
 # linux-7
 
+- 網路服務==>  netstat
+ 
+- netstat -ano
+  - a
+  - n
+  - 0
+
+- 提示 : 80 Port  ==> 怎模看網頁? 指令列? ==> curl
+- 
+ 
 
 # linux-8
 
