@@ -4,8 +4,21 @@
 # linux-1
 
 # linux-2
+```
+ls -l
+ls -A
+ls -a
+
+ls -Al
+```
 # linux-3
+
+-xxd
+
+
 # linux-4
+
+- base64
 
 
 # linux-5
@@ -15,7 +28,7 @@
   - [](https://blog.gtwang.org/linux/unix-linux-find-command-examples/)
   - [在 Linux 下使用 find 指令查詢目錄與檔案的速查筆記](https://blog.miniasp.com/post/2010/08/27/Linux-find-command-tips-and-notice) 
 
-- find / -name secret
+- find / -name secret  ==> 從最上層的根目錄(/)開始找起,一層一層找 ,找檔名叫做secret的檔案
 
 # linux-6
 
@@ -78,3 +91,7 @@ ls -al TobeExe
 ./TobeExe
 ```
 # linux-10
+
+
+- chmod +x reverse
+- strings reverse
