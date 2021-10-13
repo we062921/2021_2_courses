@@ -44,6 +44,12 @@ socat  TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
 
 # linux-8
 
+- 下載並解壓縮ForYou檔案
+- 下載 ==> wget
+- 解壓縮 ==> tar
+  - tar zxvf ForYou.tar.gz
+
+
 # linux-9
 
 # linux-10
