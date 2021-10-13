@@ -1,3 +1,7 @@
+# 作業系統經典理論
+
+- [作業系統, 10/e (授權經銷版)(Silberschatz: Operating System Concepts, 10/e) Abraham Silberschatz](https://www.tenlong.com.tw/products/9789865522506?list_name=srh)
+
 # ksuie2727354
 
 - [MyFirstsecurity](https://github.com/MyFirstSecurity2020/MyFirstSecurity)
