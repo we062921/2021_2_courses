@@ -15,6 +15,8 @@
   - [](https://blog.gtwang.org/linux/unix-linux-find-command-examples/)
   - [在 Linux 下使用 find 指令查詢目錄與檔案的速查筆記](https://blog.miniasp.com/post/2010/08/27/Linux-find-command-tips-and-notice) 
 
+- find / -name secret
+
 # linux-6
 
 
