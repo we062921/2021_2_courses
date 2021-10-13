@@ -37,8 +37,10 @@ socat  TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
   - 0
 
 - 提示 : 80 Port  ==> 怎模看網頁? 指令列? ==> curl
-- 
+- 上網肉搜  linux curl
+  - 
  
+- curl 127.0.0.1
 
 # linux-8
 
