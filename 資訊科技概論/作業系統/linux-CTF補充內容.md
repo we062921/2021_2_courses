@@ -51,5 +51,28 @@ socat  TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
 
 
 # linux-9
+```
+file TobeExe
 
+TobeExe: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, 
+interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=10558357d3700c05f1426a6d2a09b920bda2e464, not stripped
+```
+
+```
+ls -al TobeExe
+
+-rw-r--r-- 1 lab lab 7348 Nov 15  2017 TobeExe
+```
+
+```
+chmod +x TobeExe
+
+
+ls -al TobeExe
+-rwxr-xr-x 1 lab lab 7348 Nov 15  2017 TobeExe
+```
+
+```
+./TobeExe
+```
 # linux-10
