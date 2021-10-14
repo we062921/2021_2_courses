@@ -5,7 +5,7 @@
 - [測試1:RSA加解密](#RSA加解密)
 - [測試2:](#測試2)
 - [測試3:AES加解密](#AES加解密)
-- [測試4:](#測試4)
+- [測試4:HASH](#HASH)
 
 ## pycryptodome
 
@@ -18,6 +18,19 @@ GOOGLE COLAB
 
 - [PyCryptodome](https://github.com/Legrandin/pycryptodome)
 
+## HASH
+- [Hash Functions - Examples](https://cryptobook.nakov.com/cryptographic-hash-functions/hash-functions-examples)
+
+```python
+from Crypto.Hash import keccak
+import binascii
+
+keccak256 = keccak.new(data=b"hello", digest_bits=256).digest()
+print("Keccak256: ", binascii.hexlify(keccak256))
+```
+```
+Keccak256:  b'1c8aff950685c2ed4bc3174f3472287b56d9517b9c948127319a09a7a36deac8'
+```
 ## RSA加解密
 
 - [Python 以 PyCryptodome 實作 RSA 非對稱式加密方法教學與範例](https://officeguide.cc/python-pycryptodome-rsa-asymmetric-encryption-tutorial-examples/)
@@ -85,6 +98,8 @@ swIDAQAB
 ```
 
 ## AES加解密
+
+- [Python 以 PyCryptodome 實作 AES 對稱式加密方法教學與範例](https://officeguide.cc/python-pycryptodome-aes-symmetric-encryption-tutorial-examples/)
 
 ### AES加密
 ```python
