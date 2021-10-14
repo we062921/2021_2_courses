@@ -19,7 +19,7 @@ GOOGLE COLAB
 - [PyCryptodome](https://github.com/Legrandin/pycryptodome)
 
 ## HASH
-- [Hash Functions - Examples](https://cryptobook.nakov.com/cryptographic-hash-functions/hash-functions-examples)
+- [資料來源:Hash Functions - Examples](https://cryptobook.nakov.com/cryptographic-hash-functions/hash-functions-examples)
 
 ```python
 from Crypto.Hash import keccak
