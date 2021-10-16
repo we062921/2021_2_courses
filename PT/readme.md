@@ -55,10 +55,11 @@
 
 - [writeups](https://www.hackingarticles.in/linux-privilege-escalation-python-library-hijacking/)
 
-## 範例
+## 範例  Windows Exploitation: wmic ==> whitelisting AppLocker bypass 
 
-- [VM下載點]()
-- [writeups]()
+- [Windows Applocker Policy – A Beginner’s Guide](https://www.hackingarticles.in/windows-applocker-policy-a-beginners-guide/)
+- [Koadic – COM Command & Control Framework](https://www.hackingarticles.in/koadic-com-command-control-framework/)
+- [writeups](https://www.hackingarticles.in/windows-exploitation-wmic/)
 
 ## Web_security
 
