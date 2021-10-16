@@ -14,7 +14,8 @@
 
 ### nmap
 
-- [Nmap for Pentester: Vulnerability Scan]()
+- [Nmap for Pentester: Vulnerability Scan](https://www.hackingarticles.in/nmap-for-pentester-vulnerability-scan/)
+- [7 Absolutely Essential Nmap Commands for Pen Testing](https://www.cbtnuggets.com/blog/certifications/security/7-absolutely-essential-nmap-commands-for-pen-testing)
 
 ### powershell
 - [PowerShell Empire for Pentester: Mimikatz](https://www.hackingarticles.in/powershell-empire-for-pentester-mimikatz-module/)
@@ -50,18 +51,53 @@
 
 - [writeups](https://www.hackingarticles.in/windows-exploitation-msbuild/)
 
-## Linux_security
-### 範例 Linux Privilege Escalation: Python Library Hijacking
-
-- [writeups](https://www.hackingarticles.in/linux-privilege-escalation-python-library-hijacking/)
-
-## 範例  Windows Exploitation: wmic ==> whitelisting AppLocker bypass 
+### 範例  Windows Exploitation: wmic ==> whitelisting AppLocker bypass 
 
 - [Windows Applocker Policy – A Beginner’s Guide](https://www.hackingarticles.in/windows-applocker-policy-a-beginners-guide/)
 - [Koadic – COM Command & Control Framework](https://www.hackingarticles.in/koadic-com-command-control-framework/)
 - [writeups](https://www.hackingarticles.in/windows-exploitation-wmic/)
 
+### 範例
+
+- [VM下載點]()
+- [writeups]()
+
+### 範例
+
+- [VM下載點]()
+- [writeups]()
+
+### 範例
+
+- [VM下載點]()
+- [writeups]()
+
+
+## Linux_security
+### 範例 Linux Privilege Escalation: Python Library Hijacking
+
+- [writeups](https://www.hackingarticles.in/linux-privilege-escalation-python-library-hijacking/)
+
+### 範例
+
+- [VM下載點]()
+- [writeups]()
+
+### 範例
+
+- [VM下載點]()
+- [writeups]()
+
+### 範例
+
+- [VM下載點]()
+- [writeups]()
+
 ## Web_security
+
+###  open-source web fuzzing tool ==> ffuf| “Fuzz Faster U Fool”
+
+- [Comprehensive Guide on ffuf](https://www.hackingarticles.in/comprehensive-guide-on-ffuf/)
 
 ### 範例 DEFENCE SPACE CTF: 2017
 
