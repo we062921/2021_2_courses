@@ -11,9 +11,18 @@
 - [Defense Evasion: Windows Event Logging (T1562.002)](https://www.hackingarticles.in/defense-evasion-windows-event-logging-t1562-002/)
 - [Active Directory Pentesting: Lab Setup](https://www.hackingarticles.in/active-directory-pentesting-lab-setup/)
 
+### nmap
+
+- [Nmap for Pentester: Vulnerability Scan]()
+
+### powershell
 - [PowerShell Empire for Pentester: Mimikatz](https://www.hackingarticles.in/powershell-empire-for-pentester-mimikatz-module/)
 - [Empire for Pentester: Active Directory Enumeration](https://www.hackingarticles.in/empire-for-pentester-active-directory-enumeration/)
 - [Defense Evasion with obfuscated Empire](https://www.hackingarticles.in/defense-evasion-with-obfuscated-empire/)
+
+### python penetration test ==> [impacket](https://github.com/SecureAuthCorp/impacket)
+
+- [Remote Code Execution Using Impacket](https://www.hackingarticles.in/remote-code-execution-using-impacket/)
 
 ## Windows_security
 
