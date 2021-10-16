@@ -7,6 +7,8 @@
 
 ## 技術測試
 
+- [Active Directory Enumeration: BloodHound](https://www.hackingarticles.in/active-directory-enumeration-bloodhound/)
+- [Empire for Pentester: Active Directory Enumeration](https://www.hackingarticles.in/empire-for-pentester-active-directory-enumeration/)
 
 
 ## Windows_security
