@@ -9,7 +9,7 @@
 
 - [Active Directory Enumeration: BloodHound](https://www.hackingarticles.in/active-directory-enumeration-bloodhound/)
 - [Empire for Pentester: Active Directory Enumeration](https://www.hackingarticles.in/empire-for-pentester-active-directory-enumeration/)
-
+- [Defense Evasion: Windows Event Logging (T1562.002)](https://www.hackingarticles.in/defense-evasion-windows-event-logging-t1562-002/)
 
 ## Windows_security
 
