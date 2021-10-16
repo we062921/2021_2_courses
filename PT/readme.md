@@ -19,6 +19,7 @@
 - [PowerShell Empire for Pentester: Mimikatz](https://www.hackingarticles.in/powershell-empire-for-pentester-mimikatz-module/)
 - [Empire for Pentester: Active Directory Enumeration](https://www.hackingarticles.in/empire-for-pentester-active-directory-enumeration/)
 - [Defense Evasion with obfuscated Empire](https://www.hackingarticles.in/defense-evasion-with-obfuscated-empire/)
+- [Hacking with Empire – PowerShell Post-Exploitation Agent](https://www.hackingarticles.in/hacking-with-empire-powershell-post-exploitation-agent/)
 
 ### python penetration test ==> [impacket](https://github.com/SecureAuthCorp/impacket)
 
