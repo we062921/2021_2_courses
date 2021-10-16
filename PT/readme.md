@@ -40,10 +40,10 @@
 - [VM下載點]()
 - [writeups]()
 
-## 範例
+## Linux_security
+### 範例 Linux Privilege Escalation: Python Library Hijacking
 
-- [VM下載點]()
-- [writeups]()
+- [writeups](https://www.hackingarticles.in/linux-privilege-escalation-python-library-hijacking/)
 
 ## 範例
 
