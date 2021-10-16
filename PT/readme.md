@@ -2,6 +2,7 @@
 
 - [技術測試](#技術測試)
 - [範例演練 Windows_security](#Windows_security)
+- [範例演練 Linux_security](#Linux_security)
 - [範例演練 Web_security](#Web_security)
 
 
@@ -45,10 +46,9 @@
 
 - [writeups](https://www.hackingarticles.in/metasploit-for-pentester-windows-hidden-bind-shell/)
 
-## 範例
+## 範例 Windows Exploitation: msbuild
 
-- [VM下載點]()
-- [writeups]()
+- [writeups](https://www.hackingarticles.in/windows-exploitation-msbuild/)
 
 ## Linux_security
 ### 範例 Linux Privilege Escalation: Python Library Hijacking
