@@ -95,6 +95,9 @@
 
 ## Web_security
 
+- [Comprehensive Guide on XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
+
+
 ###  open-source web fuzzing tool ==> ffuf| “Fuzz Faster U Fool”
 
 - [Comprehensive Guide on ffuf](https://www.hackingarticles.in/comprehensive-guide-on-ffuf/)
@@ -104,10 +107,11 @@
 - [VM下載點](https://www.vulnhub.com/entry/defence-space-ctf-2017,179/)
 - [writeups](https://www.hackingarticles.in/hack-the-defense-space-vm-ctf-challengehack-defense-vm-ctf-challenge/)
 
-### 範例
+### 範例  WordPress penetration test
 
-- [VM下載點]()
-- [writeups]()
+- [Penetration Testing Lab Setup: WordPress](https://www.hackingarticles.in/penetration-testing-lab-setup-wordpress/)
+- [WPScan:WordPress Pentesting Framework](https://www.hackingarticles.in/wpscanwordpress-pentesting-framework/)
+
 
 ### 範例
 
