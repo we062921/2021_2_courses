@@ -2,6 +2,29 @@
 ## 工具與技術:Mimikatz
 - [執行檔下載](https://github.com/gentilkiwi/mimikatz/releases)
 - [官方GIRHUB](https://github.com/gentilkiwi/mimikatz)
+- [Official Mimikatz Wiki](https://github.com/gentilkiwi/mimikatz/wiki)
+- [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821)
+- [MITRE ATT&CK/software/S0002敘述](https://attack.mitre.org/software/S0002/)
+- [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+
+- Modules
+  - standard
+  - privilege
+  - crypto
+  - sekurlsa
+  - kerberos
+  - lsadump
+  - vault
+  - token
+  - event
+  - ts
+  - process
+  - service
+  - net
+  - misc
+  - library mimilib
+  - driver mimidrv
+
 - What Can Mimikatz Do? credential-gathering techniques
   - Pass-the-Hash
   - Pass-the-Ticket
