@@ -7,7 +7,10 @@
 - [MITRE ATT&CK/software/S0002敘述](https://attack.mitre.org/software/S0002/)
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 
-- Modules
+- [BlueHat 2014 - The Attacker's View of Windows Authentication and Post Exploitation](https://fr.slideshare.net/gentilkiwi/bluehat-2014realitybites)
+
+
+## Modules
   - standard
   - privilege
   - crypto
