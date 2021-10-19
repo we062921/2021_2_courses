@@ -9,6 +9,19 @@
 - [CISSP 權威指南, 8/e (CISSP All-in-One Exam Guide, 8/e) Shon Harris，Fernando Maymí](https://www.tenlong.com.tw/products/9787302567738)
 
 ## 資訊安全通識體系八大領域
+
+```
+1.Security and Risk Management
+2.Asset Security
+3.Security Architecture and Engineering
+4.Communication and Network Security
+5.Identity and Access Management (IAM)
+6.Security Assessment and Testing
+7.Security Operations
+8.Software Development Security
+```
+
+##
 ```
 第一章 The Information Security Environment 資訊安全環境
 Module 1: 認識、遵守與促進職業道德
