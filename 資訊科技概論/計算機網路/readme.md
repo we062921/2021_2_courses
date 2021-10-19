@@ -34,11 +34,6 @@ A.3.5. IP與DNS(網域名稱)
 ![通訊協定](通訊協定.png)
 
 
-## 延伸閱讀
-
-- [圖解 TCP/IP 網路通訊協定 (涵蓋IPv6)(2021修訂版) 井上直也,村山公保,竹下隆史,荒井透,苅田幸雄 著(2021) ](https://www.tenlong.com.tw/products/9789865027063)
-- [](https://mrcet.com/downloads/digital_notes/CSE/III%20Year/COMPUTER%20NETWORKS%20NOTES.pdf)
-
 ## 經典教科書 Computer Networks電腦網路 第五版
 
 - [經典教科書 Computer Networks, 5/e (IE-Paperback)Andrew S. Tanenbaum , David J. Wetherall(2010)](https://www.tenlong.com.tw/products/9780132553179)
@@ -85,3 +80,7 @@ A.3.5. IP與DNS(網域名稱)
 第八章 網路安全
 第九章 閱讀書單與參考書目
 ```
+## 延伸閱讀
+
+- [圖解 TCP/IP 網路通訊協定 (涵蓋IPv6)(2021修訂版) 井上直也,村山公保,竹下隆史,荒井透,苅田幸雄 著(2021) ](https://www.tenlong.com.tw/products/9789865027063)
+- [COMPUTER NETWORKS[R15A0513]LECTURE NOTES](https://mrcet.com/downloads/digital_notes/CSE/III%20Year/COMPUTER%20NETWORKS%20NOTES.pdf)
