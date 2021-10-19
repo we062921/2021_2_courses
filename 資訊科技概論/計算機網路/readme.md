@@ -8,22 +8,32 @@ A.1. 電腦通訊概說
 A.2. 網路的組成與架構
    A.2.1. 電腦網路的功能
    A.2.2. 區域網路的拓樸
+          拓撲(Topology)==網路連接的型態
+
    A.2.3. 電腦網路分享架構:Client/server與P2P
 ```
 
 
 ## 網路標準與通訊協定
 ```
-   A.3.1.通訊協定與標準
-   A.3.2. OSI通訊標準
-   A.3.3. TCP/IP協定
-   A.3.4. 傳輸層重要協定:TCP vs UDP
+A.3.1.通訊協定與標準
+
+A.3.2. OSI通訊標準
+A.3.3. TCP/IP協定
+A.3.4. [IEEE 802](https://en.wikipedia.org/wiki/IEEE_802)
+   
+A.3.4. 傳輸層重要協定:TCP vs UDP
         A.3.4.1 TCP vs UDP
         A.3.4.2 TCP的三向交握
-   A.3.5. IP與DNS(網域名稱)
+
+A.3.5. IP與DNS(網域名稱)
         A.3.5.1. IP協定與IP位址
         A.3.5.2. DNS
 ```
+
+![通訊協定](通訊協定)
+
+
 ## 延伸閱讀
 
 - [圖解 TCP/IP 網路通訊協定 (涵蓋IPv6)(2021修訂版) 井上直也,村山公保,竹下隆史,荒井透,苅田幸雄 著(2021) ](https://www.tenlong.com.tw/products/9789865027063)
