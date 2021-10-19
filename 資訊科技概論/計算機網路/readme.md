@@ -27,8 +27,11 @@ A.2. 網路的組成與架構
 ## 延伸閱讀
 
 - [圖解 TCP/IP 網路通訊協定 (涵蓋IPv6)(2021修訂版) 井上直也,村山公保,竹下隆史,荒井透,苅田幸雄 著(2021) ](https://www.tenlong.com.tw/products/9789865027063)
-- [經典教科書 Computer Networks, 5/e (IE-Paperback)Andrew S. Tanenbaum , David J. Wetherall(2010)](https://www.tenlong.com.tw/products/9780132553179)
-  - [中譯本 電腦網路, 5/e (Computer Networks, 5/e) (授權經銷版)(2012,896頁)](https://www.tenlong.com.tw/products/9789862800973) 
+- [](https://mrcet.com/downloads/digital_notes/CSE/III%20Year/COMPUTER%20NETWORKS%20NOTES.pdf)
+
+## [經典教科書 Computer Networks, 5/e (IE-Paperback)Andrew S. Tanenbaum , David J. Wetherall(2010)](https://www.tenlong.com.tw/products/9780132553179)
+
+- [中譯本 電腦網路, 5/e (Computer Networks, 5/e) (授權經銷版)(2012,896頁)](https://www.tenlong.com.tw/products/9789862800973) 
 ```
 第一章 緒論
 第二章 實體層
