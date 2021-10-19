@@ -24,3 +24,19 @@ A.2. 網路的組成與架構
         A.3.5.1. IP協定與IP位址
         A.3.5.2. DNS
 ```
+## 延伸閱讀
+
+- [圖解 TCP/IP 網路通訊協定 (涵蓋IPv6)(2021修訂版) 井上直也,村山公保,竹下隆史,荒井透,苅田幸雄 著(2021) ](https://www.tenlong.com.tw/products/9789865027063)
+- [經典教科書 Computer Networks, 5/e (IE-Paperback)Andrew S. Tanenbaum , David J. Wetherall(2010)](https://www.tenlong.com.tw/products/9780132553179)
+  - [中譯本 電腦網路, 5/e (Computer Networks, 5/e) (授權經銷版)(2012,896頁)](https://www.tenlong.com.tw/products/9789862800973) 
+```
+第一章 緒論
+第二章 實體層
+第三章 資料鏈結層
+第四章 媒介存取控制層
+第五章 網路層
+第六章 傳輸層
+第七章 應用層
+第八章 網路安全
+第九章 閱讀書單與參考書目
+```
