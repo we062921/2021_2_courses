@@ -8,20 +8,30 @@
 - [(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide & Practice Tests Bundle](https://www.tenlong.com.tw/products/9781119790020)
 - [CISSP 權威指南, 8/e (CISSP All-in-One Exam Guide, 8/e) Shon Harris，Fernando Maymí](https://www.tenlong.com.tw/products/9787302567738)
 
-## 資訊安全通識體系八大領域
+## CISSP®資訊安全通識體系八大領域　Common Body of Knowledge (CBK)
 
 ```
-1.Security and Risk Management
-2.Asset Security
-3.Security Architecture and Engineering
-4.Communication and Network Security
-5.Identity and Access Management (IAM)
-6.Security Assessment and Testing
-7.Security Operations
-8.Software Development Security
+Domain 1—安全暨風險管理Security Management　and Risk Management　【Official Study Guide　1/2/3/4】
+     
+Domain 2—資產安全　Asset Security　【Official Study Guide5　5】
+
+Domain 3—安全架構與工程　Security Engineering【Official Study Guide　6/7/8/9/10】
+　　　　　應用密碼學
+     
+Domain 4—通訊及網路安全　Communication and Network Security【Official Study Guide　11/12】
+
+Domain 5—識別暨存取控制　Identity and Access Management【Official Study Guide　13/14】
+
+Domain 6—安全性評估與測試　Security Assessment and Testing【Official Study Guide　15】
+
+Domain 7—安全性作業　Security Operations【Official Study Guide　16/17/18/19】
+
+Domain 8—軟體開發安全性　Software Development Security【Official Study Guide　20】
+　　　　　　　　　Malicious Code and Application Attacks【Official Study Guide　21】
 ```
 
-##
+
+## 教材內容
 ```
 第一章 The Information Security Environment 資訊安全環境
 Module 1: 認識、遵守與促進職業道德
