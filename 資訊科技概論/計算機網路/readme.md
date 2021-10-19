@@ -83,6 +83,8 @@ A.3.5. IP與DNS(網域名稱)
 
 ## CCNA認證
 
+- [CCNA國際認證班(資展國際)](https://www.iiiedu.org.tw/ccna/)
+
 ## 延伸閱讀
 
 - [圖解 TCP/IP 網路通訊協定 (涵蓋IPv6)(2021修訂版) 井上直也,村山公保,竹下隆史,荒井透,苅田幸雄 著(2021) ](https://www.tenlong.com.tw/products/9789865027063)
