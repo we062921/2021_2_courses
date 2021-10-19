@@ -29,17 +29,49 @@ A.2. 網路的組成與架構
 - [圖解 TCP/IP 網路通訊協定 (涵蓋IPv6)(2021修訂版) 井上直也,村山公保,竹下隆史,荒井透,苅田幸雄 著(2021) ](https://www.tenlong.com.tw/products/9789865027063)
 - [](https://mrcet.com/downloads/digital_notes/CSE/III%20Year/COMPUTER%20NETWORKS%20NOTES.pdf)
 
-## [經典教科書 Computer Networks, 5/e (IE-Paperback)Andrew S. Tanenbaum , David J. Wetherall(2010)](https://www.tenlong.com.tw/products/9780132553179)
+## 經典教科書 Computer Networks電腦網路 第五版
 
+- [經典教科書 Computer Networks, 5/e (IE-Paperback)Andrew S. Tanenbaum , David J. Wetherall(2010)](https://www.tenlong.com.tw/products/9780132553179)
 - [中譯本 電腦網路, 5/e (Computer Networks, 5/e) (授權經銷版)(2012,896頁)](https://www.tenlong.com.tw/products/9789862800973) 
 ```
 第一章 緒論
-第二章 實體層
-第三章 資料鏈結層
-第四章 媒介存取控制層
-第五章 網路層
-第六章 傳輸層
+
+第二章 實體層 THE PHYSICAL LAYER
+
+第三章 資料鏈結層 THE DATA LINK LAYER
+ 3.2 ERROR DETECTION(錯誤偵測) AND CORRECTION(錯誤更正)
+第四章 媒介存取控制層THE MEDIUM ACCESS CONTROL SUBLAYER
+
+第五章 網路層THE NETWORK LAYER
+  6.3 CONGESTION CONTROL(壅塞控制)
+
+第六章 傳輸層THE TRANSPORT LAYER  ==> UDP vs TCP
+
+
+6.4.1 UDP (User Datagram Protocol) ==> a connectionless(無須連結) transport protocol
+6.4.2 RPC(Remote Procedure Call)
+6.4.3 RTP(Real-Time Transport Protocols)| RTCP(The Real-time Transport Control Protocol) ==> 多媒體網路
+
+6.5.TCP (Transmission Control Protocol)
+     6.5.8 TCP Sliding Window
+     6.5.10 TCP Congestion Control
+
+
 第七章 應用層
+7.1 DNS(THE DOMAIN NAME SYSTEM) ==>  dns(53) 
+     ==> [dnssec()1999,2005](https://www.ithome.com.tw/tech/92685)  [DNSSEC安全技術簡介(2012)](https://www.cc.ntu.edu.tw/chinese/epaper/0022/20120920_2206.html)
+          Domain Name System Security Extensions (DNSSEC)
+
+7.2 ELECTRONIC MAIL
+    SMTP(Simple Mail Transfer Protocol)
+    IMAP(Internet Message Access Protocol)是用來從本地郵件收發軟體（如Microsoft Outlook、Outlook Express、Mozilla Thunderbird）存取遠端伺服器上的郵件。
+    POP3(Post Office Protocol - Version 3，郵局協定第三版)是郵件存取最為普遍的Internet標準協定
+
+7.3 THE WORLD WIDE WEB ==> http(80) | https(443)
+
+7.4 STREAMING AUDIO AND VIDEO
+
+
 第八章 網路安全
 第九章 閱讀書單與參考書目
 ```
